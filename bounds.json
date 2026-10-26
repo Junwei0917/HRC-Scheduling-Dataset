@@ -1,0 +1,5702 @@
+[
+  {
+    "instance_id": "large_random_integer_v1__200j_1h2r_seed700001",
+    "lb": 1297,
+    "optimum": 1297
+  },
+  {
+    "instance_id": "large_random_integer_v1__200j_1h2r_seed700002",
+    "lb": 1305,
+    "optimum": 1305
+  },
+  {
+    "instance_id": "large_random_integer_v1__200j_1h2r_seed700003",
+    "lb": 1341,
+    "optimum": 1341
+  },
+  {
+    "instance_id": "large_random_integer_v1__200j_1h2r_seed700004",
+    "lb": 1336,
+    "optimum": 1336
+  },
+  {
+    "instance_id": "large_random_integer_v1__200j_1h2r_seed700005",
+    "lb": 1330,
+    "optimum": 1330
+  },
+  {
+    "instance_id": "large_random_integer_v1__200j_2h3r_seed700001",
+    "lb": 649,
+    "optimum": 649
+  },
+  {
+    "instance_id": "large_random_integer_v1__200j_2h3r_seed700002",
+    "lb": 653,
+    "optimum": 653
+  },
+  {
+    "instance_id": "large_random_integer_v1__200j_2h3r_seed700003",
+    "lb": 671,
+    "optimum": null
+  },
+  {
+    "instance_id": "large_random_integer_v1__200j_2h3r_seed700004",
+    "lb": 668,
+    "optimum": 668
+  },
+  {
+    "instance_id": "large_random_integer_v1__200j_2h3r_seed700005",
+    "lb": 665,
+    "optimum": null
+  },
+  {
+    "instance_id": "large_random_integer_v1__50j_1h2r_seed700001",
+    "lb": 381,
+    "optimum": 381
+  },
+  {
+    "instance_id": "large_random_integer_v1__50j_1h2r_seed700002",
+    "lb": 320,
+    "optimum": 320
+  },
+  {
+    "instance_id": "large_random_integer_v1__50j_1h2r_seed700003",
+    "lb": 354,
+    "optimum": 354
+  },
+  {
+    "instance_id": "large_random_integer_v1__50j_1h2r_seed700004",
+    "lb": 345,
+    "optimum": 345
+  },
+  {
+    "instance_id": "large_random_integer_v1__50j_1h2r_seed700005",
+    "lb": 345,
+    "optimum": 345
+  },
+  {
+    "instance_id": "large_random_integer_v1__50j_2h3r_seed700001",
+    "lb": 191,
+    "optimum": 191
+  },
+  {
+    "instance_id": "large_random_integer_v1__50j_2h3r_seed700002",
+    "lb": 160,
+    "optimum": 160
+  },
+  {
+    "instance_id": "large_random_integer_v1__50j_2h3r_seed700003",
+    "lb": 177,
+    "optimum": 177
+  },
+  {
+    "instance_id": "large_random_integer_v1__50j_2h3r_seed700004",
+    "lb": 173,
+    "optimum": 173
+  },
+  {
+    "instance_id": "large_random_integer_v1__50j_2h3r_seed700005",
+    "lb": 173,
+    "optimum": 173
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930101",
+    "lb": 671,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930102",
+    "lb": 678,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930103",
+    "lb": 679,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930104",
+    "lb": 683,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930105",
+    "lb": 684,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930106",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930107",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930108",
+    "lb": 687,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930109",
+    "lb": 669,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930110",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930111",
+    "lb": 678,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930112",
+    "lb": 675,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930113",
+    "lb": 674,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930114",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930115",
+    "lb": 679,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930116",
+    "lb": 682,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930117",
+    "lb": 681,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930118",
+    "lb": 670,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930119",
+    "lb": 675,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930120",
+    "lb": 673,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930121",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930122",
+    "lb": 667,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930123",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930124",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930125",
+    "lb": 682,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930126",
+    "lb": 685,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930127",
+    "lb": 680,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930128",
+    "lb": 669,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930129",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930130",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930131",
+    "lb": 678,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930132",
+    "lb": 680,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930133",
+    "lb": 670,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930134",
+    "lb": 682,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930135",
+    "lb": 680,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930136",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930137",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930138",
+    "lb": 674,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930139",
+    "lb": 685,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930140",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930141",
+    "lb": 673,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930142",
+    "lb": 679,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930143",
+    "lb": 680,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930144",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930145",
+    "lb": 673,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930146",
+    "lb": 674,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930147",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930148",
+    "lb": 681,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930149",
+    "lb": 673,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_anchor_seed930150",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930101",
+    "lb": 336,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930102",
+    "lb": 339,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930103",
+    "lb": 340,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930104",
+    "lb": 342,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930105",
+    "lb": 342,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930106",
+    "lb": 339,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930107",
+    "lb": 339,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930108",
+    "lb": 344,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930109",
+    "lb": 335,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930110",
+    "lb": 338,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930111",
+    "lb": 339,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930112",
+    "lb": 338,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930113",
+    "lb": 337,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930114",
+    "lb": 339,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930115",
+    "lb": 340,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930116",
+    "lb": 341,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930117",
+    "lb": 341,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930118",
+    "lb": 335,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930119",
+    "lb": 338,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930120",
+    "lb": 337,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930121",
+    "lb": 338,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930122",
+    "lb": 334,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930123",
+    "lb": 339,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930124",
+    "lb": 339,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930125",
+    "lb": 341,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930126",
+    "lb": 343,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930127",
+    "lb": 340,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930128",
+    "lb": 335,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930129",
+    "lb": 339,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930130",
+    "lb": 338,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930131",
+    "lb": 339,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930132",
+    "lb": 340,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930133",
+    "lb": 335,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930134",
+    "lb": 341,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930135",
+    "lb": 340,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930136",
+    "lb": 338,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930137",
+    "lb": 339,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930138",
+    "lb": 337,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930139",
+    "lb": 343,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930140",
+    "lb": 338,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930141",
+    "lb": 337,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930142",
+    "lb": 340,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930143",
+    "lb": 340,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930144",
+    "lb": 339,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930145",
+    "lb": 337,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930146",
+    "lb": 337,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930147",
+    "lb": 339,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930148",
+    "lb": 341,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930149",
+    "lb": 337,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930150",
+    "lb": 338,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930101",
+    "lb": 224,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930102",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930103",
+    "lb": 227,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930104",
+    "lb": 228,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930105",
+    "lb": 228,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930106",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930107",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930108",
+    "lb": 229,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930109",
+    "lb": 223,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930110",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930111",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930112",
+    "lb": 225,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930113",
+    "lb": 225,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930114",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930115",
+    "lb": 227,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930116",
+    "lb": 228,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930117",
+    "lb": 227,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930118",
+    "lb": 224,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930119",
+    "lb": 225,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930120",
+    "lb": 225,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930121",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930122",
+    "lb": 223,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930123",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930124",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930125",
+    "lb": 228,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930126",
+    "lb": 229,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930127",
+    "lb": 227,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930128",
+    "lb": 223,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930129",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930130",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930131",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930132",
+    "lb": 227,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930133",
+    "lb": 224,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930134",
+    "lb": 228,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930135",
+    "lb": 227,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930136",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930137",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930138",
+    "lb": 225,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930139",
+    "lb": 229,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930140",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930141",
+    "lb": 225,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930142",
+    "lb": 227,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930143",
+    "lb": 227,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930144",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930145",
+    "lb": 225,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930146",
+    "lb": 225,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930147",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930148",
+    "lb": 227,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930149",
+    "lb": 225,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930150",
+    "lb": 226,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930101",
+    "lb": 581,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930102",
+    "lb": 593,
+    "optimum": 593
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930103",
+    "lb": 587,
+    "optimum": 587
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930104",
+    "lb": 590,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930105",
+    "lb": 596,
+    "optimum": 596
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930106",
+    "lb": 587,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930107",
+    "lb": 586,
+    "optimum": 586
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930108",
+    "lb": 595,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930109",
+    "lb": 581,
+    "optimum": 581
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930110",
+    "lb": 587,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930111",
+    "lb": 589,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930112",
+    "lb": 586,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930113",
+    "lb": 586,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930114",
+    "lb": 582,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930115",
+    "lb": 598,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930116",
+    "lb": 589,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930117",
+    "lb": 589,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930118",
+    "lb": 581,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930119",
+    "lb": 586,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930120",
+    "lb": 589,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930121",
+    "lb": 592,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930122",
+    "lb": 579,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930123",
+    "lb": 583,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930124",
+    "lb": 587,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930125",
+    "lb": 598,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930126",
+    "lb": 590,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930127",
+    "lb": 588,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930128",
+    "lb": 583,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930129",
+    "lb": 589,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930130",
+    "lb": 588,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930131",
+    "lb": 588,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930132",
+    "lb": 590,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930133",
+    "lb": 581,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930134",
+    "lb": 585,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930135",
+    "lb": 589,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930136",
+    "lb": 582,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930137",
+    "lb": 582,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930138",
+    "lb": 583,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930139",
+    "lb": 593,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930140",
+    "lb": 584,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930141",
+    "lb": 584,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930142",
+    "lb": 590,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930143",
+    "lb": 589,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930144",
+    "lb": 586,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930145",
+    "lb": 587,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930146",
+    "lb": 595,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930147",
+    "lb": 587,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930148",
+    "lb": 590,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930149",
+    "lb": 590,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930150",
+    "lb": 586,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930101",
+    "lb": 800,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930102",
+    "lb": 810,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930103",
+    "lb": 810,
+    "optimum": 810
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930104",
+    "lb": 816,
+    "optimum": 816
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930105",
+    "lb": 814,
+    "optimum": 814
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930106",
+    "lb": 807,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930107",
+    "lb": 811,
+    "optimum": 811
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930108",
+    "lb": 823,
+    "optimum": 823
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930109",
+    "lb": 794,
+    "optimum": 794
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930110",
+    "lb": 812,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930111",
+    "lb": 809,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930112",
+    "lb": 808,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930113",
+    "lb": 802,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930114",
+    "lb": 813,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930115",
+    "lb": 808,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930116",
+    "lb": 816,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930117",
+    "lb": 808,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930118",
+    "lb": 804,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930119",
+    "lb": 807,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930120",
+    "lb": 803,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930121",
+    "lb": 806,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930122",
+    "lb": 793,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930123",
+    "lb": 813,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930124",
+    "lb": 815,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930125",
+    "lb": 814,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930126",
+    "lb": 823,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930127",
+    "lb": 818,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930128",
+    "lb": 798,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930129",
+    "lb": 811,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930130",
+    "lb": 809,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930131",
+    "lb": 812,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930132",
+    "lb": 814,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930133",
+    "lb": 805,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930134",
+    "lb": 810,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930135",
+    "lb": 811,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930136",
+    "lb": 806,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930137",
+    "lb": 813,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930138",
+    "lb": 807,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930139",
+    "lb": 820,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930140",
+    "lb": 813,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930141",
+    "lb": 811,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930142",
+    "lb": 811,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930143",
+    "lb": 814,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930144",
+    "lb": 806,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930145",
+    "lb": 808,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930146",
+    "lb": 809,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930147",
+    "lb": 812,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930148",
+    "lb": 814,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930149",
+    "lb": 805,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930150",
+    "lb": 811,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930101",
+    "lb": 834,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930102",
+    "lb": 847,
+    "optimum": 847
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930103",
+    "lb": 848,
+    "optimum": 848
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930104",
+    "lb": 854,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930105",
+    "lb": 846,
+    "optimum": 846
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930106",
+    "lb": 833,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930107",
+    "lb": 841,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930108",
+    "lb": 856,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930109",
+    "lb": 828,
+    "optimum": 828
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930110",
+    "lb": 841,
+    "optimum": 841
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930111",
+    "lb": 844,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930112",
+    "lb": 842,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930113",
+    "lb": 835,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930114",
+    "lb": 846,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930115",
+    "lb": 842,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930116",
+    "lb": 853,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930117",
+    "lb": 842,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930118",
+    "lb": 833,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930119",
+    "lb": 839,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930120",
+    "lb": 833,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930121",
+    "lb": 838,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930122",
+    "lb": 831,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930123",
+    "lb": 847,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930124",
+    "lb": 846,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930125",
+    "lb": 846,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930126",
+    "lb": 856,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930127",
+    "lb": 850,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930128",
+    "lb": 831,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930129",
+    "lb": 841,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930130",
+    "lb": 840,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930131",
+    "lb": 847,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930132",
+    "lb": 850,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930133",
+    "lb": 835,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930134",
+    "lb": 852,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930135",
+    "lb": 850,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930136",
+    "lb": 841,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930137",
+    "lb": 846,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930138",
+    "lb": 836,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930139",
+    "lb": 856,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930140",
+    "lb": 845,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930141",
+    "lb": 841,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930142",
+    "lb": 848,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930143",
+    "lb": 842,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930144",
+    "lb": 836,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930145",
+    "lb": 841,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930146",
+    "lb": 841,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930147",
+    "lb": 845,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930148",
+    "lb": 851,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930149",
+    "lb": 839,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930150",
+    "lb": 843,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930101",
+    "lb": 671,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930102",
+    "lb": 678,
+    "optimum": 678
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930103",
+    "lb": 678,
+    "optimum": 678
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930104",
+    "lb": 682,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930105",
+    "lb": 684,
+    "optimum": 684
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930106",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930107",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930108",
+    "lb": 687,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930109",
+    "lb": 669,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930110",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930111",
+    "lb": 678,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930112",
+    "lb": 675,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930113",
+    "lb": 674,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930114",
+    "lb": 671,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930115",
+    "lb": 679,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930116",
+    "lb": 682,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930117",
+    "lb": 681,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930118",
+    "lb": 670,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930119",
+    "lb": 675,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930120",
+    "lb": 673,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930121",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930122",
+    "lb": 667,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930123",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930124",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930125",
+    "lb": 682,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930126",
+    "lb": 681,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930127",
+    "lb": 679,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930128",
+    "lb": 669,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930129",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930130",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930131",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930132",
+    "lb": 678,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930133",
+    "lb": 670,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930134",
+    "lb": 679,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930135",
+    "lb": 679,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930136",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930137",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930138",
+    "lb": 674,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930139",
+    "lb": 685,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930140",
+    "lb": 672,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930141",
+    "lb": 672,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930142",
+    "lb": 679,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930143",
+    "lb": 680,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930144",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930145",
+    "lb": 673,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930146",
+    "lb": 674,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930147",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930148",
+    "lb": 680,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930149",
+    "lb": 673,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930150",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930101",
+    "lb": 671,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930102",
+    "lb": 678,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930103",
+    "lb": 679,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930104",
+    "lb": 683,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930105",
+    "lb": 684,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930106",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930107",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930108",
+    "lb": 687,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930109",
+    "lb": 669,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930110",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930111",
+    "lb": 678,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930112",
+    "lb": 675,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930113",
+    "lb": 674,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930114",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930115",
+    "lb": 679,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930116",
+    "lb": 682,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930117",
+    "lb": 681,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930118",
+    "lb": 670,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930119",
+    "lb": 675,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930120",
+    "lb": 673,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930121",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930122",
+    "lb": 667,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930123",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930124",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930125",
+    "lb": 682,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930126",
+    "lb": 685,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930127",
+    "lb": 680,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930128",
+    "lb": 669,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930129",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930130",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930131",
+    "lb": 678,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930132",
+    "lb": 680,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930133",
+    "lb": 670,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930134",
+    "lb": 682,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930135",
+    "lb": 680,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930136",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930137",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930138",
+    "lb": 674,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930139",
+    "lb": 685,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930140",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930141",
+    "lb": 673,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930142",
+    "lb": 679,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930143",
+    "lb": 680,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930144",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930145",
+    "lb": 673,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930146",
+    "lb": 674,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930147",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930148",
+    "lb": 681,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930149",
+    "lb": 673,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930150",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930101",
+    "lb": 671,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930102",
+    "lb": 678,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930103",
+    "lb": 679,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930104",
+    "lb": 683,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930105",
+    "lb": 684,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930106",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930107",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930108",
+    "lb": 687,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930109",
+    "lb": 669,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930110",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930111",
+    "lb": 678,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930112",
+    "lb": 675,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930113",
+    "lb": 674,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930114",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930115",
+    "lb": 679,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930116",
+    "lb": 682,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930117",
+    "lb": 681,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930118",
+    "lb": 670,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930119",
+    "lb": 675,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930120",
+    "lb": 673,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930121",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930122",
+    "lb": 667,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930123",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930124",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930125",
+    "lb": 682,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930126",
+    "lb": 685,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930127",
+    "lb": 680,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930128",
+    "lb": 669,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930129",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930130",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930131",
+    "lb": 678,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930132",
+    "lb": 680,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930133",
+    "lb": 670,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930134",
+    "lb": 682,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930135",
+    "lb": 680,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930136",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930137",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930138",
+    "lb": 674,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930139",
+    "lb": 685,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930140",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930141",
+    "lb": 673,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930142",
+    "lb": 679,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930143",
+    "lb": 680,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930144",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930145",
+    "lb": 673,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930146",
+    "lb": 674,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930147",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930148",
+    "lb": 681,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930149",
+    "lb": 673,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930150",
+    "lb": 676,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930101",
+    "lb": 166,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930102",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930103",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930104",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930105",
+    "lb": 177,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930106",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930107",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930108",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930109",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930110",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930111",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930112",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930113",
+    "lb": 172,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930114",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930115",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930116",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930117",
+    "lb": 172,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930118",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930119",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930120",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930121",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930122",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930123",
+    "lb": 166,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930124",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930125",
+    "lb": 177,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930126",
+    "lb": 166,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930127",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930128",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930129",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930130",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930131",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930132",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930133",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930134",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930135",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930136",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930137",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930138",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930139",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930140",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930141",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930142",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930143",
+    "lb": 177,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930144",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930145",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930146",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930147",
+    "lb": 172,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930148",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930149",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_anchor_seed930150",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930101",
+    "lb": 83,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930102",
+    "lb": 84,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930103",
+    "lb": 85,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930104",
+    "lb": 87,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930105",
+    "lb": 89,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930106",
+    "lb": 84,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930107",
+    "lb": 85,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930108",
+    "lb": 84,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930109",
+    "lb": 85,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930110",
+    "lb": 84,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930111",
+    "lb": 84,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930112",
+    "lb": 85,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930113",
+    "lb": 86,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930114",
+    "lb": 87,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930115",
+    "lb": 85,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930116",
+    "lb": 84,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930117",
+    "lb": 86,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930118",
+    "lb": 86,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930119",
+    "lb": 84,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930120",
+    "lb": 86,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930121",
+    "lb": 88,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930122",
+    "lb": 87,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930123",
+    "lb": 83,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930124",
+    "lb": 86,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930125",
+    "lb": 89,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930126",
+    "lb": 83,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930127",
+    "lb": 87,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930128",
+    "lb": 88,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930129",
+    "lb": 88,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930130",
+    "lb": 86,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930131",
+    "lb": 84,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930132",
+    "lb": 87,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930133",
+    "lb": 84,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930134",
+    "lb": 85,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930135",
+    "lb": 85,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930136",
+    "lb": 86,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930137",
+    "lb": 86,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930138",
+    "lb": 85,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930139",
+    "lb": 85,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930140",
+    "lb": 88,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930141",
+    "lb": 85,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930142",
+    "lb": 86,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930143",
+    "lb": 89,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930144",
+    "lb": 88,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930145",
+    "lb": 84,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930146",
+    "lb": 85,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930147",
+    "lb": 86,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930148",
+    "lb": 86,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930149",
+    "lb": 85,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930150",
+    "lb": 85,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930101",
+    "lb": 56,
+    "optimum": 56
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930102",
+    "lb": 56,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930103",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930104",
+    "lb": 58,
+    "optimum": 58
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930105",
+    "lb": 59,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930106",
+    "lb": 56,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930107",
+    "lb": 57,
+    "optimum": 57
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930108",
+    "lb": 56,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930109",
+    "lb": 57,
+    "optimum": 57
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930110",
+    "lb": 56,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930111",
+    "lb": 56,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930112",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930113",
+    "lb": 58,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930114",
+    "lb": 58,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930115",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930116",
+    "lb": 56,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930117",
+    "lb": 58,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930118",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930119",
+    "lb": 56,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930120",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930121",
+    "lb": 59,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930122",
+    "lb": 58,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930123",
+    "lb": 56,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930124",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930125",
+    "lb": 59,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930126",
+    "lb": 56,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930127",
+    "lb": 58,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930128",
+    "lb": 59,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930129",
+    "lb": 59,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930130",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930131",
+    "lb": 56,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930132",
+    "lb": 58,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930133",
+    "lb": 56,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930134",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930135",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930136",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930137",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930138",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930139",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930140",
+    "lb": 59,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930141",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930142",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930143",
+    "lb": 59,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930144",
+    "lb": 59,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930145",
+    "lb": 56,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930146",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930147",
+    "lb": 58,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930148",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930149",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930150",
+    "lb": 57,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930101",
+    "lb": 142,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930102",
+    "lb": 145,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930103",
+    "lb": 148,
+    "optimum": 148
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930104",
+    "lb": 148,
+    "optimum": 148
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930105",
+    "lb": 151,
+    "optimum": 151
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930106",
+    "lb": 146,
+    "optimum": 146
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930107",
+    "lb": 147,
+    "optimum": 147
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930108",
+    "lb": 146,
+    "optimum": 146
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930109",
+    "lb": 146,
+    "optimum": 146
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930110",
+    "lb": 145,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930111",
+    "lb": 144,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930112",
+    "lb": 148,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930113",
+    "lb": 148,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930114",
+    "lb": 150,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930115",
+    "lb": 148,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930116",
+    "lb": 148,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930117",
+    "lb": 149,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930118",
+    "lb": 148,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930119",
+    "lb": 144,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930120",
+    "lb": 146,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930121",
+    "lb": 151,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930122",
+    "lb": 153,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930123",
+    "lb": 145,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930124",
+    "lb": 148,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930125",
+    "lb": 153,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930126",
+    "lb": 150,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930127",
+    "lb": 149,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930128",
+    "lb": 150,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930129",
+    "lb": 147,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930130",
+    "lb": 150,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930131",
+    "lb": 147,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930132",
+    "lb": 148,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930133",
+    "lb": 144,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930134",
+    "lb": 147,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930135",
+    "lb": 145,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930136",
+    "lb": 148,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930137",
+    "lb": 151,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930138",
+    "lb": 148,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930139",
+    "lb": 154,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930140",
+    "lb": 151,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930141",
+    "lb": 147,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930142",
+    "lb": 149,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930143",
+    "lb": 149,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930144",
+    "lb": 153,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930145",
+    "lb": 146,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930146",
+    "lb": 149,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930147",
+    "lb": 149,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930148",
+    "lb": 151,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930149",
+    "lb": 146,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930150",
+    "lb": 150,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930101",
+    "lb": 192,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930102",
+    "lb": 199,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930103",
+    "lb": 204,
+    "optimum": 204
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930104",
+    "lb": 204,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930105",
+    "lb": 209,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930106",
+    "lb": 200,
+    "optimum": 200
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930107",
+    "lb": 200,
+    "optimum": 200
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930108",
+    "lb": 199,
+    "optimum": 199
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930109",
+    "lb": 200,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930110",
+    "lb": 200,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930111",
+    "lb": 201,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930112",
+    "lb": 204,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930113",
+    "lb": 206,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930114",
+    "lb": 206,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930115",
+    "lb": 200,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930116",
+    "lb": 195,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930117",
+    "lb": 203,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930118",
+    "lb": 206,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930119",
+    "lb": 202,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930120",
+    "lb": 205,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930121",
+    "lb": 210,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930122",
+    "lb": 204,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930123",
+    "lb": 198,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930124",
+    "lb": 201,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930125",
+    "lb": 209,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930126",
+    "lb": 198,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930127",
+    "lb": 206,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930128",
+    "lb": 209,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930129",
+    "lb": 208,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930130",
+    "lb": 203,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930131",
+    "lb": 204,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930132",
+    "lb": 207,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930133",
+    "lb": 201,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930134",
+    "lb": 203,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930135",
+    "lb": 197,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930136",
+    "lb": 199,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930137",
+    "lb": 203,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930138",
+    "lb": 203,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930139",
+    "lb": 199,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930140",
+    "lb": 209,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930141",
+    "lb": 203,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930142",
+    "lb": 206,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930143",
+    "lb": 209,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930144",
+    "lb": 205,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930145",
+    "lb": 201,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930146",
+    "lb": 201,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930147",
+    "lb": 205,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930148",
+    "lb": 200,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930149",
+    "lb": 203,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930150",
+    "lb": 201,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930101",
+    "lb": 201,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930102",
+    "lb": 205,
+    "optimum": 205
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930103",
+    "lb": 211,
+    "optimum": 211
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930104",
+    "lb": 216,
+    "optimum": 216
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930105",
+    "lb": 222,
+    "optimum": 222
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930106",
+    "lb": 205,
+    "optimum": 205
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930107",
+    "lb": 208,
+    "optimum": 208
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930108",
+    "lb": 206,
+    "optimum": 206
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930109",
+    "lb": 207,
+    "optimum": 207
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930110",
+    "lb": 205,
+    "optimum": 205
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930111",
+    "lb": 209,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930112",
+    "lb": 211,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930113",
+    "lb": 212,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930114",
+    "lb": 214,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930115",
+    "lb": 208,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930116",
+    "lb": 204,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930117",
+    "lb": 210,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930118",
+    "lb": 213,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930119",
+    "lb": 208,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930120",
+    "lb": 214,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930121",
+    "lb": 218,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930122",
+    "lb": 214,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930123",
+    "lb": 204,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930124",
+    "lb": 210,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930125",
+    "lb": 219,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930126",
+    "lb": 206,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930127",
+    "lb": 213,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930128",
+    "lb": 219,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930129",
+    "lb": 217,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930130",
+    "lb": 212,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930131",
+    "lb": 207,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930132",
+    "lb": 213,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930133",
+    "lb": 206,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930134",
+    "lb": 211,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930135",
+    "lb": 204,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930136",
+    "lb": 206,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930137",
+    "lb": 214,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930138",
+    "lb": 212,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930139",
+    "lb": 207,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930140",
+    "lb": 218,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930141",
+    "lb": 208,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930142",
+    "lb": 214,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930143",
+    "lb": 221,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930144",
+    "lb": 215,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930145",
+    "lb": 207,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930146",
+    "lb": 211,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930147",
+    "lb": 215,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930148",
+    "lb": 211,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930149",
+    "lb": 212,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930150",
+    "lb": 209,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930101",
+    "lb": 166,
+    "optimum": 166
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930102",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930103",
+    "lb": 170,
+    "optimum": 170
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930104",
+    "lb": 172,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930105",
+    "lb": 177,
+    "optimum": 177
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930106",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930107",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930108",
+    "lb": 168,
+    "optimum": 168
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930109",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930110",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930111",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930112",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930113",
+    "lb": 172,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930114",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930115",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930116",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930117",
+    "lb": 172,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930118",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930119",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930120",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930121",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930122",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930123",
+    "lb": 166,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930124",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930125",
+    "lb": 177,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930126",
+    "lb": 166,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930127",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930128",
+    "lb": 174,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930129",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930130",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930131",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930132",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930133",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930134",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930135",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930136",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930137",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930138",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930139",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930140",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930141",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930142",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930143",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930144",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930145",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930146",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930147",
+    "lb": 172,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930148",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930149",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930150",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930101",
+    "lb": 166,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930102",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930103",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930104",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930105",
+    "lb": 177,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930106",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930107",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930108",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930109",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930110",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930111",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930112",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930113",
+    "lb": 172,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930114",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930115",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930116",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930117",
+    "lb": 172,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930118",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930119",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930120",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930121",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930122",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930123",
+    "lb": 166,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930124",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930125",
+    "lb": 177,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930126",
+    "lb": 166,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930127",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930128",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930129",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930130",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930131",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930132",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930133",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930134",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930135",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930136",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930137",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930138",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930139",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930140",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930141",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930142",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930143",
+    "lb": 177,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930144",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930145",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930146",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930147",
+    "lb": 172,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930148",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930149",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930150",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930101",
+    "lb": 166,
+    "optimum": 166
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930102",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930103",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930104",
+    "lb": 173,
+    "optimum": 173
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930105",
+    "lb": 177,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930106",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930107",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930108",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930109",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930110",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930111",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930112",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930113",
+    "lb": 172,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930114",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930115",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930116",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930117",
+    "lb": 172,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930118",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930119",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930120",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930121",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930122",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930123",
+    "lb": 166,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930124",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930125",
+    "lb": 177,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930126",
+    "lb": 166,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930127",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930128",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930129",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930130",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930131",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930132",
+    "lb": 173,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930133",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930134",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930135",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930136",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930137",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930138",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930139",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930140",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930141",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930142",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930143",
+    "lb": 177,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930144",
+    "lb": 175,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930145",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930146",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930147",
+    "lb": 172,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930148",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930149",
+    "lb": 170,
+    "optimum": null
+  },
+  {
+    "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930150",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__robot_heavy_mix_200j_seed700001",
+    "lb": 656,
+    "optimum": null
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__robot_heavy_mix_200j_seed700002",
+    "lb": 687,
+    "optimum": 687
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__robot_heavy_mix_200j_seed700003",
+    "lb": 665,
+    "optimum": 665
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__robot_heavy_mix_200j_seed700004",
+    "lb": 692,
+    "optimum": null
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__robot_heavy_mix_200j_seed700005",
+    "lb": 688,
+    "optimum": null
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__robot_heavy_mix_50j_seed700001",
+    "lb": 168,
+    "optimum": null
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__robot_heavy_mix_50j_seed700002",
+    "lb": 174,
+    "optimum": 174
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__robot_heavy_mix_50j_seed700003",
+    "lb": 167,
+    "optimum": 167
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__robot_heavy_mix_50j_seed700004",
+    "lb": 183,
+    "optimum": 183
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__robot_heavy_mix_50j_seed700005",
+    "lb": 171,
+    "optimum": 171
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__scarce_robots_200j_seed700001",
+    "lb": 1494,
+    "optimum": 1494
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__scarce_robots_200j_seed700002",
+    "lb": 1614,
+    "optimum": 1614
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__scarce_robots_200j_seed700003",
+    "lb": 1531,
+    "optimum": 1531
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__scarce_robots_200j_seed700004",
+    "lb": 1635,
+    "optimum": 1635
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__scarce_robots_200j_seed700005",
+    "lb": 1604,
+    "optimum": 1604
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__scarce_robots_50j_seed700001",
+    "lb": 354,
+    "optimum": 354
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__scarce_robots_50j_seed700002",
+    "lb": 414,
+    "optimum": 414
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__scarce_robots_50j_seed700003",
+    "lb": 373,
+    "optimum": 373
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__scarce_robots_50j_seed700004",
+    "lb": 439,
+    "optimum": 439
+  },
+  {
+    "instance_id": "robot_bottleneck_v1__scarce_robots_50j_seed700005",
+    "lb": 370,
+    "optimum": 370
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_1H2R_seed810001",
+    "lb": 960,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_1H2R_seed810002",
+    "lb": 827,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_1H2R_seed810003",
+    "lb": 965,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_1H2R_seed810004",
+    "lb": 851,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_1H2R_seed810005",
+    "lb": 895,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_1H2R_seed810006",
+    "lb": 888,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_1H2R_seed810007",
+    "lb": 897,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_1H2R_seed810008",
+    "lb": 866,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_1H2R_seed810009",
+    "lb": 1013,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_1H2R_seed810010",
+    "lb": 881,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_2H3R_seed810001",
+    "lb": 480,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_2H3R_seed810002",
+    "lb": 414,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_2H3R_seed810003",
+    "lb": 483,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_2H3R_seed810004",
+    "lb": 426,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_2H3R_seed810005",
+    "lb": 448,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_2H3R_seed810006",
+    "lb": 444,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_2H3R_seed810007",
+    "lb": 449,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_2H3R_seed810008",
+    "lb": 433,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_2H3R_seed810009",
+    "lb": 507,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n200_2H3R_seed810010",
+    "lb": 441,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_1H2R_seed810001",
+    "lb": 237,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_1H2R_seed810002",
+    "lb": 240,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_1H2R_seed810003",
+    "lb": 244,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_1H2R_seed810004",
+    "lb": 218,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_1H2R_seed810005",
+    "lb": 221,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_1H2R_seed810006",
+    "lb": 208,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_1H2R_seed810007",
+    "lb": 221,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_1H2R_seed810008",
+    "lb": 198,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_1H2R_seed810009",
+    "lb": 275,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_1H2R_seed810010",
+    "lb": 224,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_2H3R_seed810001",
+    "lb": 119,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_2H3R_seed810002",
+    "lb": 120,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_2H3R_seed810003",
+    "lb": 122,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_2H3R_seed810004",
+    "lb": 109,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_2H3R_seed810005",
+    "lb": 111,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_2H3R_seed810006",
+    "lb": 104,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_2H3R_seed810007",
+    "lb": 111,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_2H3R_seed810008",
+    "lb": 99,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_2H3R_seed810009",
+    "lb": 138,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_reserved_v1__n50_2H3R_seed810010",
+    "lb": 112,
+    "optimum": null
+  },
+  {
+    "instance_id": "small_random_v1__n10_1H2R_seed810001",
+    "lb": 47,
+    "optimum": 47
+  },
+  {
+    "instance_id": "small_random_v1__n10_1H2R_seed810002",
+    "lb": 40,
+    "optimum": 40
+  },
+  {
+    "instance_id": "small_random_v1__n10_1H2R_seed810003",
+    "lb": 51,
+    "optimum": 51
+  },
+  {
+    "instance_id": "small_random_v1__n10_1H2R_seed810004",
+    "lb": 36,
+    "optimum": 36
+  },
+  {
+    "instance_id": "small_random_v1__n10_1H2R_seed810005",
+    "lb": 36,
+    "optimum": 36
+  },
+  {
+    "instance_id": "small_random_v1__n10_1H2R_seed810006",
+    "lb": 42,
+    "optimum": 42
+  },
+  {
+    "instance_id": "small_random_v1__n10_1H2R_seed810007",
+    "lb": 40,
+    "optimum": 40
+  },
+  {
+    "instance_id": "small_random_v1__n10_1H2R_seed810008",
+    "lb": 33,
+    "optimum": 33
+  },
+  {
+    "instance_id": "small_random_v1__n10_1H2R_seed810009",
+    "lb": 54,
+    "optimum": 54
+  },
+  {
+    "instance_id": "small_random_v1__n10_1H2R_seed810010",
+    "lb": 52,
+    "optimum": 52
+  },
+  {
+    "instance_id": "small_random_v1__n10_2H3R_seed810001",
+    "lb": 31,
+    "optimum": 31
+  },
+  {
+    "instance_id": "small_random_v1__n10_2H3R_seed810002",
+    "lb": 32,
+    "optimum": 32
+  },
+  {
+    "instance_id": "small_random_v1__n10_2H3R_seed810003",
+    "lb": 33,
+    "optimum": 33
+  },
+  {
+    "instance_id": "small_random_v1__n10_2H3R_seed810004",
+    "lb": 29,
+    "optimum": 29
+  },
+  {
+    "instance_id": "small_random_v1__n10_2H3R_seed810005",
+    "lb": 27,
+    "optimum": 27
+  },
+  {
+    "instance_id": "small_random_v1__n10_2H3R_seed810006",
+    "lb": 29,
+    "optimum": 29
+  },
+  {
+    "instance_id": "small_random_v1__n10_2H3R_seed810007",
+    "lb": 26,
+    "optimum": 26
+  },
+  {
+    "instance_id": "small_random_v1__n10_2H3R_seed810008",
+    "lb": 33,
+    "optimum": 33
+  },
+  {
+    "instance_id": "small_random_v1__n10_2H3R_seed810009",
+    "lb": 37,
+    "optimum": 37
+  },
+  {
+    "instance_id": "small_random_v1__n10_2H3R_seed810010",
+    "lb": 34,
+    "optimum": 34
+  },
+  {
+    "instance_id": "small_random_v1__n15_1H2R_seed810001",
+    "lb": 67,
+    "optimum": 67
+  },
+  {
+    "instance_id": "small_random_v1__n15_1H2R_seed810002",
+    "lb": 75,
+    "optimum": 75
+  },
+  {
+    "instance_id": "small_random_v1__n15_1H2R_seed810003",
+    "lb": 69,
+    "optimum": 69
+  },
+  {
+    "instance_id": "small_random_v1__n15_1H2R_seed810004",
+    "lb": 56,
+    "optimum": 56
+  },
+  {
+    "instance_id": "small_random_v1__n15_1H2R_seed810005",
+    "lb": 60,
+    "optimum": 60
+  },
+  {
+    "instance_id": "small_random_v1__n15_1H2R_seed810006",
+    "lb": 62,
+    "optimum": 62
+  },
+  {
+    "instance_id": "small_random_v1__n15_1H2R_seed810007",
+    "lb": 62,
+    "optimum": 62
+  },
+  {
+    "instance_id": "small_random_v1__n15_1H2R_seed810008",
+    "lb": 54,
+    "optimum": 54
+  },
+  {
+    "instance_id": "small_random_v1__n15_1H2R_seed810009",
+    "lb": 78,
+    "optimum": 78
+  },
+  {
+    "instance_id": "small_random_v1__n15_1H2R_seed810010",
+    "lb": 71,
+    "optimum": 71
+  },
+  {
+    "instance_id": "small_random_v1__n15_2H3R_seed810001",
+    "lb": 34,
+    "optimum": 34
+  },
+  {
+    "instance_id": "small_random_v1__n15_2H3R_seed810002",
+    "lb": 38,
+    "optimum": 38
+  },
+  {
+    "instance_id": "small_random_v1__n15_2H3R_seed810003",
+    "lb": 35,
+    "optimum": 35
+  },
+  {
+    "instance_id": "small_random_v1__n15_2H3R_seed810004",
+    "lb": 36,
+    "optimum": 36
+  },
+  {
+    "instance_id": "small_random_v1__n15_2H3R_seed810005",
+    "lb": 32,
+    "optimum": 32
+  },
+  {
+    "instance_id": "small_random_v1__n15_2H3R_seed810006",
+    "lb": 39,
+    "optimum": 39
+  },
+  {
+    "instance_id": "small_random_v1__n15_2H3R_seed810007",
+    "lb": 37,
+    "optimum": 37
+  },
+  {
+    "instance_id": "small_random_v1__n15_2H3R_seed810008",
+    "lb": 33,
+    "optimum": 33
+  },
+  {
+    "instance_id": "small_random_v1__n15_2H3R_seed810009",
+    "lb": 39,
+    "optimum": 39
+  },
+  {
+    "instance_id": "small_random_v1__n15_2H3R_seed810010",
+    "lb": 36,
+    "optimum": 36
+  },
+  {
+    "instance_id": "small_random_v1__n20_1H2R_seed810001",
+    "lb": 84,
+    "optimum": 84
+  },
+  {
+    "instance_id": "small_random_v1__n20_1H2R_seed810002",
+    "lb": 107,
+    "optimum": 107
+  },
+  {
+    "instance_id": "small_random_v1__n20_1H2R_seed810003",
+    "lb": 88,
+    "optimum": 88
+  },
+  {
+    "instance_id": "small_random_v1__n20_1H2R_seed810004",
+    "lb": 78,
+    "optimum": 78
+  },
+  {
+    "instance_id": "small_random_v1__n20_1H2R_seed810005",
+    "lb": 93,
+    "optimum": 93
+  },
+  {
+    "instance_id": "small_random_v1__n20_1H2R_seed810006",
+    "lb": 79,
+    "optimum": 79
+  },
+  {
+    "instance_id": "small_random_v1__n20_1H2R_seed810007",
+    "lb": 86,
+    "optimum": 86
+  },
+  {
+    "instance_id": "small_random_v1__n20_1H2R_seed810008",
+    "lb": 73,
+    "optimum": 73
+  },
+  {
+    "instance_id": "small_random_v1__n20_1H2R_seed810009",
+    "lb": 120,
+    "optimum": 120
+  },
+  {
+    "instance_id": "small_random_v1__n20_1H2R_seed810010",
+    "lb": 97,
+    "optimum": 97
+  },
+  {
+    "instance_id": "small_random_v1__n20_2H3R_seed810001",
+    "lb": 42,
+    "optimum": 42
+  },
+  {
+    "instance_id": "small_random_v1__n20_2H3R_seed810002",
+    "lb": 54,
+    "optimum": 54
+  },
+  {
+    "instance_id": "small_random_v1__n20_2H3R_seed810003",
+    "lb": 44,
+    "optimum": 44
+  },
+  {
+    "instance_id": "small_random_v1__n20_2H3R_seed810004",
+    "lb": 39,
+    "optimum": 39
+  },
+  {
+    "instance_id": "small_random_v1__n20_2H3R_seed810005",
+    "lb": 47,
+    "optimum": 47
+  },
+  {
+    "instance_id": "small_random_v1__n20_2H3R_seed810006",
+    "lb": 40,
+    "optimum": 40
+  },
+  {
+    "instance_id": "small_random_v1__n20_2H3R_seed810007",
+    "lb": 43,
+    "optimum": 43
+  },
+  {
+    "instance_id": "small_random_v1__n20_2H3R_seed810008",
+    "lb": 39,
+    "optimum": 39
+  },
+  {
+    "instance_id": "small_random_v1__n20_2H3R_seed810009",
+    "lb": 60,
+    "optimum": 60
+  },
+  {
+    "instance_id": "small_random_v1__n20_2H3R_seed810010",
+    "lb": 49,
+    "optimum": 49
+  },
+  {
+    "instance_id": "small_random_v1__n25_1H2R_seed810001",
+    "lb": 102,
+    "optimum": 102
+  },
+  {
+    "instance_id": "small_random_v1__n25_1H2R_seed810002",
+    "lb": 121,
+    "optimum": 121
+  },
+  {
+    "instance_id": "small_random_v1__n25_1H2R_seed810003",
+    "lb": 116,
+    "optimum": 116
+  },
+  {
+    "instance_id": "small_random_v1__n25_1H2R_seed810004",
+    "lb": 99,
+    "optimum": 99
+  },
+  {
+    "instance_id": "small_random_v1__n25_1H2R_seed810005",
+    "lb": 105,
+    "optimum": 105
+  },
+  {
+    "instance_id": "small_random_v1__n25_1H2R_seed810006",
+    "lb": 97,
+    "optimum": 97
+  },
+  {
+    "instance_id": "small_random_v1__n25_1H2R_seed810007",
+    "lb": 107,
+    "optimum": 107
+  },
+  {
+    "instance_id": "small_random_v1__n25_1H2R_seed810008",
+    "lb": 95,
+    "optimum": 95
+  },
+  {
+    "instance_id": "small_random_v1__n25_1H2R_seed810009",
+    "lb": 144,
+    "optimum": 144
+  },
+  {
+    "instance_id": "small_random_v1__n25_1H2R_seed810010",
+    "lb": 111,
+    "optimum": 111
+  },
+  {
+    "instance_id": "small_random_v1__n25_2H3R_seed810001",
+    "lb": 51,
+    "optimum": 51
+  },
+  {
+    "instance_id": "small_random_v1__n25_2H3R_seed810002",
+    "lb": 61,
+    "optimum": 61
+  },
+  {
+    "instance_id": "small_random_v1__n25_2H3R_seed810003",
+    "lb": 58,
+    "optimum": 58
+  },
+  {
+    "instance_id": "small_random_v1__n25_2H3R_seed810004",
+    "lb": 50,
+    "optimum": 50
+  },
+  {
+    "instance_id": "small_random_v1__n25_2H3R_seed810005",
+    "lb": 53,
+    "optimum": 53
+  },
+  {
+    "instance_id": "small_random_v1__n25_2H3R_seed810006",
+    "lb": 49,
+    "optimum": 49
+  },
+  {
+    "instance_id": "small_random_v1__n25_2H3R_seed810007",
+    "lb": 54,
+    "optimum": 54
+  },
+  {
+    "instance_id": "small_random_v1__n25_2H3R_seed810008",
+    "lb": 48,
+    "optimum": 48
+  },
+  {
+    "instance_id": "small_random_v1__n25_2H3R_seed810009",
+    "lb": 72,
+    "optimum": 72
+  },
+  {
+    "instance_id": "small_random_v1__n25_2H3R_seed810010",
+    "lb": 56,
+    "optimum": 56
+  },
+  {
+    "instance_id": "small_random_v1__n30_1H2R_seed810001",
+    "lb": 141,
+    "optimum": 141
+  },
+  {
+    "instance_id": "small_random_v1__n30_1H2R_seed810002",
+    "lb": 140,
+    "optimum": 140
+  },
+  {
+    "instance_id": "small_random_v1__n30_1H2R_seed810003",
+    "lb": 135,
+    "optimum": 135
+  },
+  {
+    "instance_id": "small_random_v1__n30_1H2R_seed810004",
+    "lb": 115,
+    "optimum": 115
+  },
+  {
+    "instance_id": "small_random_v1__n30_1H2R_seed810005",
+    "lb": 129,
+    "optimum": 129
+  },
+  {
+    "instance_id": "small_random_v1__n30_1H2R_seed810006",
+    "lb": 111,
+    "optimum": 111
+  },
+  {
+    "instance_id": "small_random_v1__n30_1H2R_seed810007",
+    "lb": 126,
+    "optimum": 126
+  },
+  {
+    "instance_id": "small_random_v1__n30_1H2R_seed810008",
+    "lb": 124,
+    "optimum": 124
+  },
+  {
+    "instance_id": "small_random_v1__n30_1H2R_seed810009",
+    "lb": 180,
+    "optimum": 180
+  },
+  {
+    "instance_id": "small_random_v1__n30_1H2R_seed810010",
+    "lb": 134,
+    "optimum": 134
+  },
+  {
+    "instance_id": "small_random_v1__n30_2H3R_seed810001",
+    "lb": 71,
+    "optimum": 71
+  },
+  {
+    "instance_id": "small_random_v1__n30_2H3R_seed810002",
+    "lb": 70,
+    "optimum": 70
+  },
+  {
+    "instance_id": "small_random_v1__n30_2H3R_seed810003",
+    "lb": 68,
+    "optimum": 68
+  },
+  {
+    "instance_id": "small_random_v1__n30_2H3R_seed810004",
+    "lb": 58,
+    "optimum": 58
+  },
+  {
+    "instance_id": "small_random_v1__n30_2H3R_seed810005",
+    "lb": 65,
+    "optimum": 65
+  },
+  {
+    "instance_id": "small_random_v1__n30_2H3R_seed810006",
+    "lb": 56,
+    "optimum": 56
+  },
+  {
+    "instance_id": "small_random_v1__n30_2H3R_seed810007",
+    "lb": 63,
+    "optimum": 63
+  },
+  {
+    "instance_id": "small_random_v1__n30_2H3R_seed810008",
+    "lb": 62,
+    "optimum": 62
+  },
+  {
+    "instance_id": "small_random_v1__n30_2H3R_seed810009",
+    "lb": 90,
+    "optimum": 90
+  },
+  {
+    "instance_id": "small_random_v1__n30_2H3R_seed810010",
+    "lb": 67,
+    "optimum": 67
+  },
+  {
+    "instance_id": "small_random_v1__n5_1H2R_seed810001",
+    "lb": 31,
+    "optimum": 31
+  },
+  {
+    "instance_id": "small_random_v1__n5_1H2R_seed810002",
+    "lb": 40,
+    "optimum": 40
+  },
+  {
+    "instance_id": "small_random_v1__n5_1H2R_seed810003",
+    "lb": 34,
+    "optimum": 34
+  },
+  {
+    "instance_id": "small_random_v1__n5_1H2R_seed810004",
+    "lb": 26,
+    "optimum": 26
+  },
+  {
+    "instance_id": "small_random_v1__n5_1H2R_seed810005",
+    "lb": 33,
+    "optimum": 33
+  },
+  {
+    "instance_id": "small_random_v1__n5_1H2R_seed810006",
+    "lb": 28,
+    "optimum": 28
+  },
+  {
+    "instance_id": "small_random_v1__n5_1H2R_seed810007",
+    "lb": 36,
+    "optimum": 36
+  },
+  {
+    "instance_id": "small_random_v1__n5_1H2R_seed810008",
+    "lb": 30,
+    "optimum": 30
+  },
+  {
+    "instance_id": "small_random_v1__n5_1H2R_seed810009",
+    "lb": 34,
+    "optimum": 34
+  },
+  {
+    "instance_id": "small_random_v1__n5_1H2R_seed810010",
+    "lb": 37,
+    "optimum": 37
+  },
+  {
+    "instance_id": "small_random_v1__n5_2H3R_seed810001",
+    "lb": 31,
+    "optimum": 31
+  },
+  {
+    "instance_id": "small_random_v1__n5_2H3R_seed810002",
+    "lb": 40,
+    "optimum": 40
+  },
+  {
+    "instance_id": "small_random_v1__n5_2H3R_seed810003",
+    "lb": 34,
+    "optimum": 34
+  },
+  {
+    "instance_id": "small_random_v1__n5_2H3R_seed810004",
+    "lb": 26,
+    "optimum": 26
+  },
+  {
+    "instance_id": "small_random_v1__n5_2H3R_seed810005",
+    "lb": 33,
+    "optimum": 33
+  },
+  {
+    "instance_id": "small_random_v1__n5_2H3R_seed810006",
+    "lb": 28,
+    "optimum": 28
+  },
+  {
+    "instance_id": "small_random_v1__n5_2H3R_seed810007",
+    "lb": 36,
+    "optimum": 36
+  },
+  {
+    "instance_id": "small_random_v1__n5_2H3R_seed810008",
+    "lb": 30,
+    "optimum": 30
+  },
+  {
+    "instance_id": "small_random_v1__n5_2H3R_seed810009",
+    "lb": 34,
+    "optimum": 34
+  },
+  {
+    "instance_id": "small_random_v1__n5_2H3R_seed810010",
+    "lb": 37,
+    "optimum": 37
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930131",
+    "lb": 636,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930132",
+    "lb": 693,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930133",
+    "lb": 692,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930134",
+    "lb": 674,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930135",
+    "lb": 663,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930136",
+    "lb": 659,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930137",
+    "lb": 693,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930138",
+    "lb": 708,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930139",
+    "lb": 659,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930140",
+    "lb": 625,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930141",
+    "lb": 671,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930142",
+    "lb": 667,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930143",
+    "lb": 692,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930144",
+    "lb": 688,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930145",
+    "lb": 692,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930146",
+    "lb": 703,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930147",
+    "lb": 671,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930148",
+    "lb": 685,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930149",
+    "lb": 647,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n200_source_2H3R_seed930150",
+    "lb": 677,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930131",
+    "lb": 155,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930132",
+    "lb": 171,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930133",
+    "lb": 159,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930134",
+    "lb": 162,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930135",
+    "lb": 164,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930136",
+    "lb": 164,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930137",
+    "lb": 187,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930138",
+    "lb": 183,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930139",
+    "lb": 174,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930140",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930141",
+    "lb": 169,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930142",
+    "lb": 172,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930143",
+    "lb": 166,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930144",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930145",
+    "lb": 181,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930146",
+    "lb": 164,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930147",
+    "lb": 167,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930148",
+    "lb": 181,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930149",
+    "lb": 181,
+    "optimum": null
+  },
+  {
+    "instance_id": "source_integer_v1__n50_source_2H3R_seed930150",
+    "lb": 178,
+    "optimum": null
+  }
+]

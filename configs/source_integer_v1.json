@@ -1,0 +1,1605 @@
+{
+  "collection": "source_integer_v1",
+  "instances": [
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930141",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930141",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "409acce3fd4cd01cdb8971ae930a0a6e23c7350c8975052e9fb4d490b757355f",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930141,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_SourceInteger_seed930141",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930142",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930142",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "2b508a56bac9e701a537bed2ebccf5f159dcf657310d0d12cfd3549d230cbee9",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930142,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_SourceInteger_seed930142",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930143",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930143",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "4d0029d64d0609de7d3d96d2b468a78b034355f632d98308c6a3fc37b69c11fc",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930143,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_SourceInteger_seed930143",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930144",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930144",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "2db3478714e365b9d9814cada08865fb98b1f33068b4e1c57f4bfada3ed609e0",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930144,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_SourceInteger_seed930144",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930145",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930145",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "2fb24c261fbf46e6bfbcb85b452e6bf1234d3648d8f5914956450fbefe45ca5c",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930145,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_SourceInteger_seed930145",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930146",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930146",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "b4115eda5ff5e4e40fd167fed794759e7a545bb86aa5b96ba5ac67caaf36db20",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930146,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_SourceInteger_seed930146",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930147",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930147",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "f4481b9a34a69d178b5c14f238c1564150270d70e460604db0e0a70c7cea8d98",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930147,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_SourceInteger_seed930147",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930148",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930148",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "0eea1e435af446e42b5fc1ff8fe928832c723ece78f836313c458c660712e92e",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930148,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_SourceInteger_seed930148",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930149",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930149",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "f04c6c3973da1618007d5d62a159d23ed6d4dda664e9618da4d0771e5e652ab3",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930149,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_SourceInteger_seed930149",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930150",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930150",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "de8cc8fd36d4f4c690fb7f02c1af28f98c8f07ac8b4dc1857d59171207d74f2f",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930150,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_SourceInteger_seed930150",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930141",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930141",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "27b202cd5a977fbc4748780067b9597169dd453e4e3c5714e45596fa6fcb00b9",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930141,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_SourceInteger_seed930141",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930142",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930142",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "2b415d911639fd10065ae2b55a25c64cd8f71719edb7e73d361bb11a2899fea5",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930142,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_SourceInteger_seed930142",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930143",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930143",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "96d0ff560a1ba2bdfaf68bef66146a7fdca8d146c46c875bca763ef150f34417",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930143,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_SourceInteger_seed930143",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930144",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930144",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "e7a96df2541b8572d071f1c2dfbd78fabfa680feb3db0a1485d02b3824571911",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930144,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_SourceInteger_seed930144",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930145",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930145",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "11dc3a14a3a75ab068a8a2ad575ca6ca88cebd34f3ef045eb6bf29e786af87ab",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930145,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_SourceInteger_seed930145",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930146",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930146",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "167e15a85f0c97ac50cf420970a7617b9bc46dcbc335ec1f3211958f2d18d34f",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930146,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_SourceInteger_seed930146",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930147",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930147",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "948b01ae76c4671b02df3d5237a6e84908d32065a552fd484b685757c6f43741",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930147,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_SourceInteger_seed930147",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930148",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930148",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "f73be22b0b7f72ec60cdede0790d9d129d122c30668e19ce2fb3877c7e1edde6",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930148,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_SourceInteger_seed930148",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930149",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930149",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "c430f3542a7e700ed1058a5b0b34e763f4010fa8d55680e9666572aab110e34c",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930149,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_SourceInteger_seed930149",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930150",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930150",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "36bda2e82592a85b1e1d481b9cc8a38deb612f276f5cdf77c442f07abe83083e",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930150,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_SourceInteger_seed930150",
+      "source_run": "paired_timing_full_single_integer_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930131",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930131",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "90de4d387d6d8c07410b24c112b7f9c757b0595fcc3030bc87011c706b4f8008",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930131,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_source_integer_seed930131",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930132",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930132",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "735a1367306afccc2a7c496d832851dbffbd4768bc1ce64102f395f76c592f44",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930132,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_source_integer_seed930132",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930133",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930133",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "e330b071ab38c62d302a497c2916c2d98fe9fbc0a12848b37b43036a22aac2ba",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930133,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_source_integer_seed930133",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930134",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930134",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "54c4062104a423ddf5199c7c8d5298fe770db4bc9a9cd92db04a9912db33287d",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930134,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_source_integer_seed930134",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930135",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930135",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "d12019ad9bd21c686e16bdbd3263ddd33d05517c88a1bfa0d0a807c36ccfa682",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930135,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_source_integer_seed930135",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930136",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930136",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "a4ed7749df4f9f6e6fa4a66891b4c9356468464ebf866d907d8d0438f66a0566",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930136,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_source_integer_seed930136",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930137",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930137",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "dd7e1e17794c4a7c8daedf5dc86a717fa862bbccb74bfbcc6bbbc6d7dd0df4c2",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930137,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_source_integer_seed930137",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930138",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930138",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "82c04aaeddba458a1d6601a210109d3a49e99205b989c6be641cf05b269205c5",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930138,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_source_integer_seed930138",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930139",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930139",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "74d540a84e0854e7727d9a56846d8a25fcaa90df7df9e8c064ffe87f58bfa798",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930139,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_source_integer_seed930139",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed930140",
+      "instance_id": "source_integer_v1__n50_source_2H3R_seed930140",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "712505520fb94861823894955ad9d2d15f21638e01bddae24690b512d113459d",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930140,
+      "setting": "source_2H3R",
+      "source_case_id": "n50_source_integer_seed930140",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930131",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930131",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "8a8fb873e48641fe0b3320ed9fe275f421040eec83c98e9f8f130de417bd6e45",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930131,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_source_integer_seed930131",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930132",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930132",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "6ca5f3c9b6662a6f02997e013dbb76b207907b695c4829a43ecd39bb69979246",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930132,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_source_integer_seed930132",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930133",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930133",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "378d897511be63237c70c6172971e202d9ff5ac3fa19a8d26d48fb9ed409899d",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930133,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_source_integer_seed930133",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930134",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930134",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "26a380aeba4d4a33bb12cb53ad38c41d89cdda9f30eeacad8f85e2255170f79c",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930134,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_source_integer_seed930134",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930135",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930135",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "63ca95ef3879a82faeee6e7967f7e1308dd7aa71790d43eb167057e5d35c45a2",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930135,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_source_integer_seed930135",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930136",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930136",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "e5ab24347a405206a1c35467030914b7630abb4afc509ab323cdd8a6d56460ac",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930136,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_source_integer_seed930136",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930137",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930137",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "eeb7a1f6cefc9d38bc78aa0ca7f7c62a836a23e6edb280f1e6867b815e611834",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930137,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_source_integer_seed930137",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930138",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930138",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "6907a2207ae00277a4c19a34622bbf0841da95300df3832aa2a777e5b025b973",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930138,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_source_integer_seed930138",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930139",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930139",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "a3d54cfb87f168e645024211f11db898fc598e4a3292763f099ac565c5c57a71",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930139,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_source_integer_seed930139",
+      "source_run": "ablation_matched_full_20261024"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "source_integer_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed930140",
+      "instance_id": "source_integer_v1__n200_source_2H3R_seed930140",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "2fbdb972dc2b59254f3d0c5f40b2113f90ae63ecda60d4b8dbc3f48101b8076e",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930140,
+      "setting": "source_2H3R",
+      "source_case_id": "n200_source_integer_seed930140",
+      "source_run": "ablation_matched_full_20261024"
+    }
+  ]
+}

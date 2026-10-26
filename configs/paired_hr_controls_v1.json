@@ -1,0 +1,6668 @@
+{
+  "collection": "paired_hr_controls_v1",
+  "instances": [
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930101",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_anchor_seed930101",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "cf2bf94482f2b6e1497548f32618081be9dfdf005d68096ef347b5a305c5b816",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "anchor",
+      "source_case_id": "n200_anchor_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930102",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_anchor_seed930102",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "9969561286aeee6e716feba39972295af4e8d15c10c69fe62e6166cd804e818b",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "anchor",
+      "source_case_id": "n200_anchor_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930103",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_anchor_seed930103",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "62b25fe005f6d09c91b4f6951f0466d8a657286716dcf31e8f6f914cbf245391",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "anchor",
+      "source_case_id": "n200_anchor_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930104",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_anchor_seed930104",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "aef6e4da7e2eec9343832d1917552600bcf22ae7cca37bc33a9584fc0ae09aac",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "anchor",
+      "source_case_id": "n200_anchor_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930105",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_anchor_seed930105",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "f7b240a9125202a0ba2f77d13fe65629fa90ca3b20f296ad142d8bf2b48e51e1",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "anchor",
+      "source_case_id": "n200_anchor_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930106",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_anchor_seed930106",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "051e4adef8bea5481bf13531e691a7846b75ab8d5f209c9a60ba062b75ab1590",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "anchor",
+      "source_case_id": "n200_anchor_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930107",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_anchor_seed930107",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "9a9a7f5bc9fb58c9bf6f05aab7296ff01ba15f1f3d874d62f75d4821ea3dcfe7",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "anchor",
+      "source_case_id": "n200_anchor_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930108",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_anchor_seed930108",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "a695b3e0b928264abae4e80a89fa0956ddfbc1f4653f05f5da04f486d5bc8665",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "anchor",
+      "source_case_id": "n200_anchor_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930109",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_anchor_seed930109",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "3ec04090c4c269aca4c2115da4e7a51c34574777a40a1b9b979e5e98b3c1b35c",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "anchor",
+      "source_case_id": "n200_anchor_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930110",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_anchor_seed930110",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "803eca43efe0a36302fc2cebfb0bf073742eeffc90a50964130e147b58f56b3c",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "anchor",
+      "source_case_id": "n200_anchor_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930101",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930101",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "e06582b087a52ea6fc01fdf79652cc4930cfda3c7b6a4193df53c3ce70af33fd",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "capacity_x2",
+      "source_case_id": "n200_capacity_x2_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930102",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930102",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "04bb454b60b07ae7ac394f79cce72243dfa9ff3adb9795bc2cf42cf26dbcb5c2",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "capacity_x2",
+      "source_case_id": "n200_capacity_x2_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930103",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930103",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "972206cd23d038daf38e6e776a8a056a7ab2f2e9a357d3aa5a2443b23a82e2a3",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "capacity_x2",
+      "source_case_id": "n200_capacity_x2_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930104",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930104",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "3783fd075a8742e9858189743bdc9d363de0745ccf237e62a81e34eca82fc27d",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "capacity_x2",
+      "source_case_id": "n200_capacity_x2_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930105",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930105",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "59a1f84abd21ad682c6da76425830c8434a50a856b7885477bce0c61c25d63a9",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "capacity_x2",
+      "source_case_id": "n200_capacity_x2_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930106",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930106",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "93d21c1d3def64f7740127384925cd25bdf37a97fe351f4449c300ce05ecf4cf",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "capacity_x2",
+      "source_case_id": "n200_capacity_x2_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930107",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930107",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "7006886927061f60d29d4988871d247465d88bc34aa0d92d58922177acbaf287",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "capacity_x2",
+      "source_case_id": "n200_capacity_x2_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930108",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930108",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "92f6a0cc9b1d9a7aa439d095bea93dfba499eba666b01f5d19caa92ce891055e",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "capacity_x2",
+      "source_case_id": "n200_capacity_x2_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930109",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930109",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "5e24bd2c25fd0589090c14b9bc9c4eafbf8e93486deaf2ef99f107565dcbd764",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "capacity_x2",
+      "source_case_id": "n200_capacity_x2_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930110",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x2_seed930110",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "9ebb050fa18d21c6ab182698fca0a9608071e24e2af01daec1ce59b9065c8878",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "capacity_x2",
+      "source_case_id": "n200_capacity_x2_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930101",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930101",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "8cfd023ad787bc75a635f796c350840528b8f15cfb76d290139b7aa1031f4ad4",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "capacity_x3",
+      "source_case_id": "n200_capacity_x3_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930102",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930102",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "716804a9d35481a91bfb705e0bb8daaaf71cb830f3a12e871ebccc49fea580a6",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "capacity_x3",
+      "source_case_id": "n200_capacity_x3_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930103",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930103",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "04a295091175b16ac67c3452566706d6ec782b72e2bb2d92636c11b2e56b3b97",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "capacity_x3",
+      "source_case_id": "n200_capacity_x3_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930104",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930104",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "085a0365598501f8cbe9cd32e183505efe24f9251e31fc800fb2f36100979837",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "capacity_x3",
+      "source_case_id": "n200_capacity_x3_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930105",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930105",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "dd5ef7b3b923de3eb51d91fc33b1b2430937c158b6537eaae4ad76b0c6fb6b5b",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "capacity_x3",
+      "source_case_id": "n200_capacity_x3_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930106",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930106",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "795145304ba73a9e8680bb578d53114d618261acb6eb3f1036e2b0fff21857fb",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "capacity_x3",
+      "source_case_id": "n200_capacity_x3_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930107",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930107",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "f8576b0decbc2c4f81d21730cf88dbd19ca01c5d34f6b7dd4d95a04a39187264",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "capacity_x3",
+      "source_case_id": "n200_capacity_x3_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930108",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930108",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "8749d9a574fe43e3f5ae8282a91fe7a3e7a741d2feee9814f30ab9038ca79a81",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "capacity_x3",
+      "source_case_id": "n200_capacity_x3_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930109",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930109",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "a989b4864e48faab723f26fa8b165398e486802f6f0300c4a0a1db4d506484c5",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "capacity_x3",
+      "source_case_id": "n200_capacity_x3_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930110",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_capacity_x3_seed930110",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "738a94494ce327821a9c8d8d7ff48a204b713d5c2253d0989588f6448ee1818c",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "capacity_x3",
+      "source_case_id": "n200_capacity_x3_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930101",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930101",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "99e7f7b40d221f6135ed5062679f541479ce5be9c9721bbefbe7f0b6f4336e34",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "demand_hr30",
+      "source_case_id": "n200_demand_hr30_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930102",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930102",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "f8983fb1e9d66b30ce09956b7083811e19b45d2eff8d6867d8252069d81ee086",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "demand_hr30",
+      "source_case_id": "n200_demand_hr30_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930103",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930103",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "e46043629fcc23bf4b7c6c96af6e35290441ab9dfb9239969a478068adfbffb1",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "demand_hr30",
+      "source_case_id": "n200_demand_hr30_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930104",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930104",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "70f7220ff680c79f7c29e687bdb85d803a52856d252e0a5d35211aeb5f292a03",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "demand_hr30",
+      "source_case_id": "n200_demand_hr30_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930105",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930105",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "e0226fcbe8cd51bfa2711b7706f5dfdfdc7194ae028b830537063e2ac66282cf",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "demand_hr30",
+      "source_case_id": "n200_demand_hr30_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930106",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930106",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "56cc6d37626d7a7612ba0f92a169917f41bd082c6177bc494169e447a19e91d4",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "demand_hr30",
+      "source_case_id": "n200_demand_hr30_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930107",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930107",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "e8553bc52426c9685b9ea9effcebfe463f8a4bc49a6de5106e00e52ff8a49951",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "demand_hr30",
+      "source_case_id": "n200_demand_hr30_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930108",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930108",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "ff9dc7bf1e0078ecd0996e54b630d216eafdd8a771039b0725c53600e6ea6488",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "demand_hr30",
+      "source_case_id": "n200_demand_hr30_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930109",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930109",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "072e986567bd1ad0f716659fdd725929ac0638f9bff8ddd1d8e65079ded318e8",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "demand_hr30",
+      "source_case_id": "n200_demand_hr30_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930110",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr30_seed930110",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "2d268dc4265119164f0d5171aee2a0332d5e964950b8ff08b82d3555657b3722",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "demand_hr30",
+      "source_case_id": "n200_demand_hr30_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930101",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930101",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "e4cf46b82cb509ad9ced59cbf58d2de8069aec68a20279e81ccd594ba47de26d",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "demand_hr60",
+      "source_case_id": "n200_demand_hr60_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930102",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930102",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "6a29742927e5317bf930564a1fb013fd93f67caf1faee7ad63d96f15c45744ca",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "demand_hr60",
+      "source_case_id": "n200_demand_hr60_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930103",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930103",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "b7f7b1d186054467c1c9dbb1402e5a6f1c2d00b34309db7ed7f072244a117ff9",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "demand_hr60",
+      "source_case_id": "n200_demand_hr60_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930104",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930104",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "9e2836547024460a8d881b86219b500ebb9a9139c5517ac4d57c15488534e4ea",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "demand_hr60",
+      "source_case_id": "n200_demand_hr60_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930105",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930105",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "364b08b1f40d0015464a5ae01b26082bf50c1c6de5fa2cbe191e491d3a3f6376",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "demand_hr60",
+      "source_case_id": "n200_demand_hr60_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930106",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930106",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "6be8f6f4931c01ffc982ada08ce3ea17470eb975ae30abce23cc311a2dd4a3f9",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "demand_hr60",
+      "source_case_id": "n200_demand_hr60_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930107",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930107",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "09691f009f242b4189c5f0d88dcdcebbac6ddc24614dc4de53c8067b1a9a126f",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "demand_hr60",
+      "source_case_id": "n200_demand_hr60_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930108",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930108",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "622a04003a1713fd2424c97812b5a701de5a5016b63a14cf2c46c0a9768eedaf",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "demand_hr60",
+      "source_case_id": "n200_demand_hr60_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930109",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930109",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "8c7d385edaabcbc7e8390856c83101c3013a3bdd3fa434544603e8c81cd9b655",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "demand_hr60",
+      "source_case_id": "n200_demand_hr60_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930110",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n200_demand_hr60_seed930110",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "28bcb8a55e5e57faf635a2ef539a0f398054769ee22f8cc06a00089a54db3b25",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "demand_hr60",
+      "source_case_id": "n200_demand_hr60_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930101",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930101",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "342060123ebc41c0ff8c04ef211733bbc81f3bca560f0c0858fcebb186956c47",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "layout_P4",
+      "source_case_id": "n200_layout_P4_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930102",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930102",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "b45eb45f5e5f239b934c24f1a22fa2560b66bbb5d002eb9e07e4223b4c9b4045",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "layout_P4",
+      "source_case_id": "n200_layout_P4_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930103",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930103",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "ae9f528f78e0d792d9a7b4240b28a584afd08837f39529a470c373a84fbb9ad9",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "layout_P4",
+      "source_case_id": "n200_layout_P4_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930104",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930104",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "eddee28ec523d7e6ff29c8f3b441c62b6fece7c122f8f891f3023e8eaaa37448",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "layout_P4",
+      "source_case_id": "n200_layout_P4_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930105",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930105",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "57ae8554f98ab720617483329260385221cf638cdb6441937fccbd11ed68b7c3",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "layout_P4",
+      "source_case_id": "n200_layout_P4_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930106",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930106",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "e62b4b14794bac05e3a4a1ff2f575e284f100a802a169bf5cc27eaf70617ae77",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "layout_P4",
+      "source_case_id": "n200_layout_P4_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930107",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930107",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "969a310266b084103a273a2fd8ac54c7ad9788774fa789cd2cc0b86aa2faa7e8",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "layout_P4",
+      "source_case_id": "n200_layout_P4_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930108",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930108",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "85a686219c2d802b2adb2b4a2d2b8e709499f2de49e7523d85cbcfeccfbcc8bc",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "layout_P4",
+      "source_case_id": "n200_layout_P4_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930109",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930109",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "42209b772be6446ebcee0574cb73c92742fcc49d970119b1de78736e03b150d4",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "layout_P4",
+      "source_case_id": "n200_layout_P4_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930110",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P4_seed930110",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "9185cd980be055b21d011e66b0976bdfc5a45619d99d3189a950cbcab5c41259",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "layout_P4",
+      "source_case_id": "n200_layout_P4_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930101",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930101",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "090f0ba13a27505109b485d7949d51ab78e556b59f29e09f66c7e93fe8fa0842",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "layout_P6",
+      "source_case_id": "n200_layout_P6_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930102",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930102",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "6e57b6694c9a13e1651a0a8ada130cd96bc781ead94dc805a05d8c01d068b4a7",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "layout_P6",
+      "source_case_id": "n200_layout_P6_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930103",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930103",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "4ef9db7fdb46ba3eaa35119c3f4d9c019d790865ad199eb357c9553fc07391fa",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "layout_P6",
+      "source_case_id": "n200_layout_P6_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930104",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930104",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "726dbd8f1abff3db9e143ff368a511487481bc471c82d656923cd534bd93d015",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "layout_P6",
+      "source_case_id": "n200_layout_P6_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930105",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930105",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "18e9857bf8e3f3b0dcf1f60296f3f9238a8b6363285c69f66cf736e656f55e0f",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "layout_P6",
+      "source_case_id": "n200_layout_P6_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930106",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930106",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "cb6fabaee47c24c0104b8f46d32caa5f3a13745bd0e752683b3913713f283e69",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "layout_P6",
+      "source_case_id": "n200_layout_P6_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930107",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930107",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "f3fd0d3e41a07c85c4ca703ac4b28726fdc29af59b9d8dc259a9f6460c758b99",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "layout_P6",
+      "source_case_id": "n200_layout_P6_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930108",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930108",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "543d9f494cd2d116d3d76b6327f72fb14213b8fecb857524a8b01e67e0637d7a",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "layout_P6",
+      "source_case_id": "n200_layout_P6_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930109",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930109",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "e441652959ba20547dbe66eea5b92f280d9e6595355b16c2d14d09c8d1d29297",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "layout_P6",
+      "source_case_id": "n200_layout_P6_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930110",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_layout_P6_seed930110",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "3056120bae1c71c667e10bf5c490eb44b05c10ef30b732940f6d1d09c05907b7",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "layout_P6",
+      "source_case_id": "n200_layout_P6_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930101",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930101",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "56918d209fcdbce4f7336eb45f43ff9a22b5d66df2579b1f1fbce65a7199ebb3",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "order_aligned",
+      "source_case_id": "n200_order_aligned_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930102",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930102",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "1745c5c2ce882369911db9d1f24449159c0dd97f234d75aed8963863047aefc1",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "order_aligned",
+      "source_case_id": "n200_order_aligned_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930103",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930103",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "0aa2474b5014d483984eac4312a07e100b28d86976ca045b531c3665c2971e8e",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "order_aligned",
+      "source_case_id": "n200_order_aligned_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930104",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930104",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "7e1bae13189a2918b2d695871c54f041a97da95acb6792992b6bfbc7e3a25301",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "order_aligned",
+      "source_case_id": "n200_order_aligned_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930105",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930105",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "5e5922f54c51497eac159cedb354ffd122e95259ddcd7e967b166497f3b6cd95",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "order_aligned",
+      "source_case_id": "n200_order_aligned_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930106",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930106",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "b5247453ca71e92f58a1fbd6cec517eb6513c3bc60103a52837e183ab6d5470d",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "order_aligned",
+      "source_case_id": "n200_order_aligned_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930107",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930107",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "421ab228ee94c5593a44c66148a94966da5196409e567b6b0d8aa964d84593c9",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "order_aligned",
+      "source_case_id": "n200_order_aligned_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930108",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930108",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "638181ad1d8164e163259dafb6af8f4e7de462d577d7637e16561f0d187748dd",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "order_aligned",
+      "source_case_id": "n200_order_aligned_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930109",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930109",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "cf824024939b7a1c96f46b9e19b53954c6a1ee6e98c7fb5bf08de190561492c9",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "order_aligned",
+      "source_case_id": "n200_order_aligned_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930110",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_aligned_seed930110",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "ec675af4c2aea4584e2b1eebaab9458c76f0a5f6f683337cc83f836a7d8c5c82",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "order_aligned",
+      "source_case_id": "n200_order_aligned_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930101",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930101",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "9f10fb54c4ddf600a87469f00089dfb47c5b81fb4db3a64c0a6eca1a9a76d725",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "order_opposed",
+      "source_case_id": "n200_order_opposed_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930102",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930102",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "13ef5e8ddd13680407f17f6349131d041a3afb82647e27ceb045183b451153a5",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "order_opposed",
+      "source_case_id": "n200_order_opposed_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930103",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930103",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "8f5f78002be34b57afa7c92f32c75a3628473ac40ed34647263de20f1947da19",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "order_opposed",
+      "source_case_id": "n200_order_opposed_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930104",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930104",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "7f67fcfa3ed62b5c4d23c6d2e325ad571d7eeb72d769377aa338894217eeca29",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "order_opposed",
+      "source_case_id": "n200_order_opposed_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930105",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930105",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "376f168415dddcc512ca0361f33e86930201ead02ce115ec25d30cc15334570e",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "order_opposed",
+      "source_case_id": "n200_order_opposed_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930106",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930106",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "7857e75d7f489283917e9ede6836753692aebd09c99bc267f53cd7f93fa01a49",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "order_opposed",
+      "source_case_id": "n200_order_opposed_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930107",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930107",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "8d54e8ca3faa2540e8a7e0c0e931bf56015134f66341ca2b08fdf7e1e026a924",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "order_opposed",
+      "source_case_id": "n200_order_opposed_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930108",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930108",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "58b5b22ca5aee7d24940320b83d340cc2a2d300c255ba6ff62c08d0e93a1f74e",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "order_opposed",
+      "source_case_id": "n200_order_opposed_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930109",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930109",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "da59c2a08d728ea74022bea6dc3ad585213fae37fa66ba88c8455c6c719d31cc",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "order_opposed",
+      "source_case_id": "n200_order_opposed_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n200_seed930110",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n200_order_opposed_seed930110",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "76aacde17d5eae7324cbaeff859f3403c36c4a8ae506034d501e47af6ff74e87",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "order_opposed",
+      "source_case_id": "n200_order_opposed_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930101",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_anchor_seed930101",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "cd9ee9667d4d8872d4913af190ec846c8063b63f9c3a84c79d4ab3808bf9afd6",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "anchor",
+      "source_case_id": "n50_anchor_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930102",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_anchor_seed930102",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "d16381825d440a73f57dd58eb1047d2ad1e3249fdb47ff82efa7fc9a934aabbd",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "anchor",
+      "source_case_id": "n50_anchor_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930103",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_anchor_seed930103",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "6410e315cce193aad7cd52aac924e6b644b51b11d615890dd2a5b29da7df7c79",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "anchor",
+      "source_case_id": "n50_anchor_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930104",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_anchor_seed930104",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "84079546a836221a8ff215a3f8d762d3510db61cbab3c29197f52c9e14e417da",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "anchor",
+      "source_case_id": "n50_anchor_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930105",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_anchor_seed930105",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "9df509c31950efd35787c1184459e015470fbce5aaeccb9acbcbbf9744418e70",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "anchor",
+      "source_case_id": "n50_anchor_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930106",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_anchor_seed930106",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "4df898518a7f47ec0520cae2e12e44de1175af418559564be645417a9e464e9f",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "anchor",
+      "source_case_id": "n50_anchor_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930107",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_anchor_seed930107",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "361a2515d1025d2605e014223f2faf46e6cdb58a84616987853e20ab58552428",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "anchor",
+      "source_case_id": "n50_anchor_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930108",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_anchor_seed930108",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "a6af4f73257ecbd15ca3e5b1b188c362e8fab671f4d681c8ba9e09029a86a31e",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "anchor",
+      "source_case_id": "n50_anchor_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930109",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_anchor_seed930109",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "a570353218f41ce7a54c3a9ab2477e8604d7f91051b3b80e2e8ca4703f8a1576",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "anchor",
+      "source_case_id": "n50_anchor_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930110",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_anchor_seed930110",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "1f0921291ae8a0a71f4fb1b16696bb1148f23f3e8f5388a85089b95bb9a9a252",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "anchor",
+      "source_case_id": "n50_anchor_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930101",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930101",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "f55635f4218a05b9de280eec839b0e121dd1ba4cc7d1d0f5f40591d81496cca8",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "capacity_x2",
+      "source_case_id": "n50_capacity_x2_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930102",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930102",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "7a92e7b464b23c7ba9f9907ab2e1c9956665c8766d79ff9c86b4e8801c56cfda",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "capacity_x2",
+      "source_case_id": "n50_capacity_x2_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930103",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930103",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "d66b1c46e77d1250946c757354dc95ec5ab3d5a071bdbdaa323834c2b0326f4c",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "capacity_x2",
+      "source_case_id": "n50_capacity_x2_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930104",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930104",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "5d49f508505b4baed3e83ae20dc139f1993c645a5c3ce61f1bb38220ffdb500e",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "capacity_x2",
+      "source_case_id": "n50_capacity_x2_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930105",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930105",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "e1d551cdaf3428f2083dc95fd9c4bdd7be954a47ba8415eec291437a89eb58d1",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "capacity_x2",
+      "source_case_id": "n50_capacity_x2_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930106",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930106",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "3db370563262a3c52b64c216c5f918a3d16f1f6891189a361bfc5c3f724526ef",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "capacity_x2",
+      "source_case_id": "n50_capacity_x2_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930107",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930107",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "e9b1ba260fd21ac591202f6f5f4767aa22c7195965c2857a9146a298f32af30c",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "capacity_x2",
+      "source_case_id": "n50_capacity_x2_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930108",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930108",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "75119275035c3ff2f25d8c596cfb9de82c96c00e2d25afb7585cdb4d8e541de4",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "capacity_x2",
+      "source_case_id": "n50_capacity_x2_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930109",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930109",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "7c5146340319048a6c90312fa4f4b04c25198c08d61b12815d672ce379b68cc1",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "capacity_x2",
+      "source_case_id": "n50_capacity_x2_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930110",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930110",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          6,
+          4
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "6a13285efc196d343385aa4279f1d7eb698f9e08970ac96549d5c4025f9a6c83",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "capacity_x2",
+      "source_case_id": "n50_capacity_x2_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930101",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930101",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "eb0a04e0a416396eaa50e2126050ab4639ab9cd69a6f3c688ee05ff59f111669",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "capacity_x3",
+      "source_case_id": "n50_capacity_x3_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930102",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930102",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "038dea5a178b83d17b3b0cc324002575662779257f4f2872bdf9ccdc1bc3c611",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "capacity_x3",
+      "source_case_id": "n50_capacity_x3_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930103",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930103",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "c43b4cfc71956938e4d083132c4724315774f0472d1cdfb6e0bf12fefc34b36e",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "capacity_x3",
+      "source_case_id": "n50_capacity_x3_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930104",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930104",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "449f487ad1b9b185ba27d9168625946912b52fa6d9e1402afa1f9fc36a0bdd5f",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "capacity_x3",
+      "source_case_id": "n50_capacity_x3_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930105",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930105",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "3a2515dec6d3afce3f96bb36efec528d586a19565c8261ecb4c85160bf7bdf2b",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "capacity_x3",
+      "source_case_id": "n50_capacity_x3_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930106",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930106",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "7dd0efde59dfeb06e249ebc210236a8a9c82f8f5e76c8073d46ff81b66bb1e02",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "capacity_x3",
+      "source_case_id": "n50_capacity_x3_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930107",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930107",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "ee8d56d6e4e1d2533468ee55e59ad9307ec59963150f004c4272316b9d665fe5",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "capacity_x3",
+      "source_case_id": "n50_capacity_x3_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930108",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930108",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "f33c9c337b9b67b8ab9d99f46f20d0f6f6068ab320fd609c63d2784ad16e8195",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "capacity_x3",
+      "source_case_id": "n50_capacity_x3_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930109",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930109",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "71758f017084425941cf58c2cb142c2e80eb3873ecacabb5e75adbe32c6df8e6",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "capacity_x3",
+      "source_case_id": "n50_capacity_x3_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930110",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_capacity_x3_seed930110",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          9,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "33490b000a5e9607f02f0eb6c58f5a1c6c6c8b0bd063c28ee8f50391a3b886ec",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "capacity_x3",
+      "source_case_id": "n50_capacity_x3_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930101",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930101",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "aad14b8234cd40403a29ac4540ec4df688046bf15fa87daa7b6bf407aac93a34",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "demand_hr30",
+      "source_case_id": "n50_demand_hr30_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930102",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930102",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "80e23ac0c6242a542d3c6dab1d38e76196df3c22dad7100509b8c6c804692282",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "demand_hr30",
+      "source_case_id": "n50_demand_hr30_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930103",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930103",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "b5e07b5f723e10aa83223e9d18b4ea5066cd778c9e16ca136c66c60176827d0f",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "demand_hr30",
+      "source_case_id": "n50_demand_hr30_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930104",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930104",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "f8f2b1f901387b997df9e8b32d073c2d748ca9ca902ab22fbbe75ec3a66e8e16",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "demand_hr30",
+      "source_case_id": "n50_demand_hr30_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930105",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930105",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "204d7597ff3e88dd3f12e8dea2c5b58b891bef494c76989701815c988021578c",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "demand_hr30",
+      "source_case_id": "n50_demand_hr30_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930106",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930106",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "3672aa7f0618941603762960a68836474e15824f75e510aa25bcd2057e7deef6",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "demand_hr30",
+      "source_case_id": "n50_demand_hr30_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930107",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930107",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "a198630a13c4713c0df3ab72af8814fb15bd496b9ece612a566f24bfafe3bb35",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "demand_hr30",
+      "source_case_id": "n50_demand_hr30_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930108",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930108",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "3ca3dedb0a2bcdaf7ce7a684f99bf7c468136b2f14b2922f8a88261fa32fee18",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "demand_hr30",
+      "source_case_id": "n50_demand_hr30_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930109",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930109",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "06274e56de7b3a4ac04d4f006082129482821297d1d039b209e3a068e1e75705",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "demand_hr30",
+      "source_case_id": "n50_demand_hr30_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930110",
+      "hr_fraction": 0.3,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr30_seed930110",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "860acf6852faa77c1105b1142d2b81bae9e1791f618f548e48bd22ca4b417add",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "demand_hr30",
+      "source_case_id": "n50_demand_hr30_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930101",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930101",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "44def291d28086b61eca96ddccced054a6f37ef942935461a8f7f3509f8fe121",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "demand_hr60",
+      "source_case_id": "n50_demand_hr60_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930102",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930102",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "09fe9a0b480459651259e4b02893e6bdc5bc158f65d2c5c96d104807a0623cf1",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "demand_hr60",
+      "source_case_id": "n50_demand_hr60_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930103",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930103",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "23d80682636145ab9e3d5866c7711a8c4eec88c05c3b8cc4e20bfb466214c4c8",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "demand_hr60",
+      "source_case_id": "n50_demand_hr60_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930104",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930104",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "d60b14bb19bd4460f8a45a6ffebe5ea1ad003d087cc941bd98a3cd7b0450a88f",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "demand_hr60",
+      "source_case_id": "n50_demand_hr60_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930105",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930105",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "85ee1df7e6f5cf6e6ab1859439fe032ebf923834a8b9f6c804cb8d391fb02a64",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "demand_hr60",
+      "source_case_id": "n50_demand_hr60_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930106",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930106",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "78bb0423e03e5422c56e53cb90a022a2fc8adf29003cc907fdc6cd6b17a8e81a",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "demand_hr60",
+      "source_case_id": "n50_demand_hr60_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930107",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930107",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "d0e2765dea7003bca68b7a731de0864dda5462e253f1898f29247b02432cb345",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "demand_hr60",
+      "source_case_id": "n50_demand_hr60_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930108",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930108",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "1f503c1e5c6493c37984c3c16c379674ff79eaa657d6eb98e99f6d6c18f11c03",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "demand_hr60",
+      "source_case_id": "n50_demand_hr60_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930109",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930109",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "0f22a90609ad40973a3f97d046e0a1dc5f0fabe8e5e75c2fff203bd4bd28ee57",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "demand_hr60",
+      "source_case_id": "n50_demand_hr60_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930110",
+      "hr_fraction": 0.6,
+      "instance_id": "paired_hr_controls_v1__n50_demand_hr60_seed930110",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "07a69b0b44ff19e37c77d5d73294ff453a7779c11a996aace7b1d569c929e3f5",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "demand_hr60",
+      "source_case_id": "n50_demand_hr60_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930101",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930101",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "60be45c5145b69990bbcbbd7ee2bf2580a1f4237286bedf16a33f6345babfe3d",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "layout_P4",
+      "source_case_id": "n50_layout_P4_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930102",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930102",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "79e74d6223aebdbea89566d7d218711acda07e71650b4568cbc841a2017c5b59",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "layout_P4",
+      "source_case_id": "n50_layout_P4_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930103",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930103",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "4c7f504e8e019d34cae2221218c542f5be142518f1cca2baa9c5b2a5cc4b7ea9",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "layout_P4",
+      "source_case_id": "n50_layout_P4_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930104",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930104",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "441f23bf65aa0f210d25c67782ad724f3b422e9b73645782b2be48a1da67d8a3",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "layout_P4",
+      "source_case_id": "n50_layout_P4_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930105",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930105",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "13021352e1afc9de56b4f1e23cd8e73a468e4f6844e6836bf647c5a640a09fd0",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "layout_P4",
+      "source_case_id": "n50_layout_P4_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930106",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930106",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "93958e9760df31e7adc8d84c3c9d8435a5b1015b9958c617e96ef7a13280a24d",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "layout_P4",
+      "source_case_id": "n50_layout_P4_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930107",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930107",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "d0fb14ddbfe5f3767869a4798b69314ed9c60fc981c7f7d933c3e53a6441d0dc",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "layout_P4",
+      "source_case_id": "n50_layout_P4_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930108",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930108",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "e114a81972149d43a9b63a81b23a1d9c0aca5a48d67a2e01cad866201f6a32ab",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "layout_P4",
+      "source_case_id": "n50_layout_P4_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930109",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930109",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "b42e08004249f3301b046ccacaf4e0e1da275ac716673f28cf92b59f71464fb8",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "layout_P4",
+      "source_case_id": "n50_layout_P4_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930110",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P4_seed930110",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "dda0dfafbf126428a9861d9198abd7760e6966aac809eed5e87a835fae6155e1",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "layout_P4",
+      "source_case_id": "n50_layout_P4_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930101",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930101",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "4e769f907fcecb716de5d9b95dd9b406d111d48a85f9802b085bd2debcd5a11a",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "layout_P6",
+      "source_case_id": "n50_layout_P6_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930102",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930102",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "e14541da0bf60384c71c2be54a8b1798e8ba9081d141eb432a7f095b8b502c73",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "layout_P6",
+      "source_case_id": "n50_layout_P6_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930103",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930103",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "0ef64fe010ac503493bbef5950b8a9f6045d3f514484de0d26f6579e23011ee9",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "layout_P6",
+      "source_case_id": "n50_layout_P6_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930104",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930104",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "361c701f5581a5626269b56e750738d0dfb760d8c607c06993802f6cd40d2c33",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "layout_P6",
+      "source_case_id": "n50_layout_P6_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930105",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930105",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "cbc167043c486f68e9a82105dae98da08a1cb2d3140c7020769e085121bba812",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "layout_P6",
+      "source_case_id": "n50_layout_P6_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930106",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930106",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "06189afbd64aa9cc5e578d850ae7aaa146af2e5619cf50aac9ac172f5ddb09a6",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "layout_P6",
+      "source_case_id": "n50_layout_P6_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930107",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930107",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "a47600536597acd6ba1cc2f7d09a1ce8956074e99bfd56cdcc1ad888e5902c84",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "layout_P6",
+      "source_case_id": "n50_layout_P6_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930108",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930108",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "193d0abe74cde0d44e68b01525c5ef9eab40123ced4704f2d529d982a80d800a",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "layout_P6",
+      "source_case_id": "n50_layout_P6_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930109",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930109",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "ad2cd726b47c650739023fe401090bb4c1d0ce45075c03268699a2c498d1481f",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "layout_P6",
+      "source_case_id": "n50_layout_P6_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930110",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_layout_P6_seed930110",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "random",
+      "original_instance_sha256": "a8ef19bd2c088efd6b59e30d6769a056aa57e8420efdd35e8384ea49376bce8d",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "layout_P6",
+      "source_case_id": "n50_layout_P6_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930101",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930101",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "d7bbb494567e61d50234029f068e4303d719fb21be469abb1a8cb4575ca87a48",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "order_aligned",
+      "source_case_id": "n50_order_aligned_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930102",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930102",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "b755578f014c046e9aa79825e595467f24c1c8d7e8cb9700f4814b8834ea8551",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "order_aligned",
+      "source_case_id": "n50_order_aligned_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930103",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930103",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "a22e17a637d3a3a766f956b790f7765a5644dd170abc4e88c17a1a836db88b94",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "order_aligned",
+      "source_case_id": "n50_order_aligned_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930104",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930104",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "2d3cf238a5709df762303486e9d988a8e5dc7103c33eef97fd625357e051aade",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "order_aligned",
+      "source_case_id": "n50_order_aligned_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930105",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930105",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "46aaf40984ff940133ca66b746f3497871b7a317c10d4d71ee5308e09a004876",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "order_aligned",
+      "source_case_id": "n50_order_aligned_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930106",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930106",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "7339a22438d5db26ef06d1406fb257c2063638a0e08b19d5964c59238ed00e4e",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "order_aligned",
+      "source_case_id": "n50_order_aligned_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930107",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930107",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "4fa8a9427b84f9e9945734b9df967d531e98e866c5cc89aafc11fb9319f96c50",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "order_aligned",
+      "source_case_id": "n50_order_aligned_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930108",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930108",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "9abdb80c9188a3df08933467d607ab6fdf65a3bae3598569cf41d9cbb50cd3ce",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "order_aligned",
+      "source_case_id": "n50_order_aligned_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930109",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930109",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "f68a42235604cb4b69ae454de419c1b9fe844ffe8d12869ef14e250fdd2a1d19",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "order_aligned",
+      "source_case_id": "n50_order_aligned_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930110",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_aligned_seed930110",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "aligned",
+      "original_instance_sha256": "7c0b5311ec6ac958fe62d03e8e89d1f1fdf8ef1bfdfab5b71d72ae7fc8d2fc15",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "order_aligned",
+      "source_case_id": "n50_order_aligned_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930101",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930101",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "488e76027c12a2ad74e8def5c509984648978ba72822a73878a64989b2b88775",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930101,
+      "setting": "order_opposed",
+      "source_case_id": "n50_order_opposed_seed930101",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930102",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930102",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "3bdfe006c2912a4904baed3a773cd6a1506985402c63b449fcffcdcd1e67005b",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930102,
+      "setting": "order_opposed",
+      "source_case_id": "n50_order_opposed_seed930102",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930103",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930103",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "256755125b82edc7bcfcb0f7582b67e5da943ccf494f2e20ac1eb0789e4edfd7",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930103,
+      "setting": "order_opposed",
+      "source_case_id": "n50_order_opposed_seed930103",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930104",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930104",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "278602e0746271b3d9588d9e46931fba52550302d16ae9903fd3090955fdbf2b",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930104,
+      "setting": "order_opposed",
+      "source_case_id": "n50_order_opposed_seed930104",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930105",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930105",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "d4a2fd11802b0b0e5009543808b367e6d8794f9b032266bcf6dc43e8026abdd3",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930105,
+      "setting": "order_opposed",
+      "source_case_id": "n50_order_opposed_seed930105",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930106",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930106",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "1252142820298c6217250280b1058992aff129f79f53195ae7eff1055677f1db",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930106,
+      "setting": "order_opposed",
+      "source_case_id": "n50_order_opposed_seed930106",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930107",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930107",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "3631690fe1d0b7b86bf9b40437f560ae2aa8fbb50269d5270606a5c4e96bc2ac",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930107,
+      "setting": "order_opposed",
+      "source_case_id": "n50_order_opposed_seed930107",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930108",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930108",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "492c224c3a9c684207b581b25439237ba90f448d8f0a4340ebdaa92109e458fd",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930108,
+      "setting": "order_opposed",
+      "source_case_id": "n50_order_opposed_seed930108",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930109",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930109",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "0fac63ddc9cb8b66991f428bb237c1ab005405319433abfa8e089f6977a7069d",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930109,
+      "setting": "order_opposed",
+      "source_case_id": "n50_order_opposed_seed930109",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    },
+    {
+      "algorithm": "paired_hr_controls_v1",
+      "collection": "paired_hr_controls_v1",
+      "generation_base_id": "paired_hr_controls_v1_n50_seed930110",
+      "hr_fraction": 0.5,
+      "instance_id": "paired_hr_controls_v1__n50_order_opposed_seed930110",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "order": "opposed",
+      "original_instance_sha256": "c8ac595c9acccbf7612d063c68d8b0acae18ba55a87d29c96db53aeb76e7875c",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "benchmark",
+      "seed": 930110,
+      "setting": "order_opposed",
+      "source_case_id": "n50_order_opposed_seed930110",
+      "source_run": "hr_controls_tenseed_50_200_20261019"
+    }
+  ],
+  "numpy_version": "2.4.4",
+  "seed_semantics": "Instance seed fixes complete scheduling input; policy/solver RNG does not change the instance",
+  "version": "1.0"
+}

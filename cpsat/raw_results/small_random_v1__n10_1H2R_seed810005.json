@@ -1,0 +1,297 @@
+{
+  "status": "OPTIMAL",
+  "status_code": 4,
+  "makespan": 36.0,
+  "best_bound": 36.0,
+  "relative_gap": 0.0,
+  "runtime": 0.035570700000000004,
+  "num_variables": 141,
+  "num_boolean_variables": 84,
+  "num_constraints": 195,
+  "conflicts": 0,
+  "branches": 0,
+  "time_horizon": 39,
+  "schedule": [
+    {
+      "operation": "J3-O1",
+      "job_id": 2,
+      "operation_id": 0,
+      "workstation_id": 0,
+      "mode": "H",
+      "start": 0.0,
+      "end": 6.0,
+      "processing_time": 6
+    },
+    {
+      "operation": "J7-O1",
+      "job_id": 6,
+      "operation_id": 0,
+      "workstation_id": 0,
+      "mode": "R",
+      "start": 0.0,
+      "end": 9.0,
+      "processing_time": 9
+    },
+    {
+      "operation": "J9-O1",
+      "job_id": 8,
+      "operation_id": 0,
+      "workstation_id": 0,
+      "mode": "R",
+      "start": 0.0,
+      "end": 6.0,
+      "processing_time": 6
+    },
+    {
+      "operation": "J2-O1",
+      "job_id": 1,
+      "operation_id": 0,
+      "workstation_id": 1,
+      "mode": "H",
+      "start": 0.0,
+      "end": 9.0,
+      "processing_time": 9
+    },
+    {
+      "operation": "J5-O1",
+      "job_id": 4,
+      "operation_id": 0,
+      "workstation_id": 1,
+      "mode": "R",
+      "start": 0.0,
+      "end": 10.0,
+      "processing_time": 10
+    },
+    {
+      "operation": "J1-O1",
+      "job_id": 0,
+      "operation_id": 0,
+      "workstation_id": 2,
+      "mode": "HR",
+      "start": 0.0,
+      "end": 9.0,
+      "processing_time": 9
+    },
+    {
+      "operation": "J6-O1",
+      "job_id": 5,
+      "operation_id": 0,
+      "workstation_id": 0,
+      "mode": "HR",
+      "start": 6.0,
+      "end": 11.0,
+      "processing_time": 5
+    },
+    {
+      "operation": "J9-O2",
+      "job_id": 8,
+      "operation_id": 1,
+      "workstation_id": 2,
+      "mode": "R",
+      "start": 6.0,
+      "end": 11.0,
+      "processing_time": 5
+    },
+    {
+      "operation": "J1-O2",
+      "job_id": 0,
+      "operation_id": 1,
+      "workstation_id": 0,
+      "mode": "R",
+      "start": 9.0,
+      "end": 17.0,
+      "processing_time": 8
+    },
+    {
+      "operation": "J2-O2",
+      "job_id": 1,
+      "operation_id": 1,
+      "workstation_id": 1,
+      "mode": "R",
+      "start": 9.0,
+      "end": 14.0,
+      "processing_time": 5
+    },
+    {
+      "operation": "J8-O1",
+      "job_id": 7,
+      "operation_id": 0,
+      "workstation_id": 1,
+      "mode": "H",
+      "start": 9.0,
+      "end": 19.0,
+      "processing_time": 10
+    },
+    {
+      "operation": "J3-O2",
+      "job_id": 2,
+      "operation_id": 1,
+      "workstation_id": 2,
+      "mode": "H",
+      "start": 9.0,
+      "end": 16.0,
+      "processing_time": 7
+    },
+    {
+      "operation": "J5-O2",
+      "job_id": 4,
+      "operation_id": 1,
+      "workstation_id": 2,
+      "mode": "R",
+      "start": 10.0,
+      "end": 18.0,
+      "processing_time": 8
+    },
+    {
+      "operation": "J4-O1",
+      "job_id": 3,
+      "operation_id": 0,
+      "workstation_id": 0,
+      "mode": "H",
+      "start": 11.0,
+      "end": 18.0,
+      "processing_time": 7
+    },
+    {
+      "operation": "J6-O2",
+      "job_id": 5,
+      "operation_id": 1,
+      "workstation_id": 1,
+      "mode": "R",
+      "start": 11.0,
+      "end": 18.0,
+      "processing_time": 7
+    },
+    {
+      "operation": "J3-O3",
+      "job_id": 2,
+      "operation_id": 2,
+      "workstation_id": 1,
+      "mode": "R",
+      "start": 16.0,
+      "end": 23.0,
+      "processing_time": 7
+    },
+    {
+      "operation": "J10-O1",
+      "job_id": 9,
+      "operation_id": 0,
+      "workstation_id": 2,
+      "mode": "H",
+      "start": 16.0,
+      "end": 21.0,
+      "processing_time": 5
+    },
+    {
+      "operation": "J6-O3",
+      "job_id": 5,
+      "operation_id": 2,
+      "workstation_id": 0,
+      "mode": "HR",
+      "start": 18.0,
+      "end": 24.0,
+      "processing_time": 6
+    },
+    {
+      "operation": "J4-O2",
+      "job_id": 3,
+      "operation_id": 1,
+      "workstation_id": 1,
+      "mode": "R",
+      "start": 18.0,
+      "end": 25.0,
+      "processing_time": 7
+    },
+    {
+      "operation": "J8-O2",
+      "job_id": 7,
+      "operation_id": 1,
+      "workstation_id": 1,
+      "mode": "H",
+      "start": 19.0,
+      "end": 29.0,
+      "processing_time": 10
+    },
+    {
+      "operation": "J7-O2",
+      "job_id": 6,
+      "operation_id": 1,
+      "workstation_id": 2,
+      "mode": "H",
+      "start": 21.0,
+      "end": 26.0,
+      "processing_time": 5
+    },
+    {
+      "operation": "J10-O2",
+      "job_id": 9,
+      "operation_id": 1,
+      "workstation_id": 2,
+      "mode": "R",
+      "start": 21.0,
+      "end": 26.0,
+      "processing_time": 5
+    },
+    {
+      "operation": "J5-O3",
+      "job_id": 4,
+      "operation_id": 2,
+      "workstation_id": 0,
+      "mode": "H",
+      "start": 24.0,
+      "end": 30.0,
+      "processing_time": 6
+    },
+    {
+      "operation": "J6-O4",
+      "job_id": 5,
+      "operation_id": 3,
+      "workstation_id": 2,
+      "mode": "R",
+      "start": 24.0,
+      "end": 33.0,
+      "processing_time": 9
+    },
+    {
+      "operation": "J4-O3",
+      "job_id": 3,
+      "operation_id": 2,
+      "workstation_id": 0,
+      "mode": "R",
+      "start": 25.0,
+      "end": 31.0,
+      "processing_time": 6
+    },
+    {
+      "operation": "J10-O3",
+      "job_id": 9,
+      "operation_id": 2,
+      "workstation_id": 2,
+      "mode": "HR",
+      "start": 26.0,
+      "end": 36.0,
+      "processing_time": 10
+    },
+    {
+      "operation": "J3-O4",
+      "job_id": 2,
+      "operation_id": 3,
+      "workstation_id": 1,
+      "mode": "HR",
+      "start": 29.0,
+      "end": 36.0,
+      "processing_time": 7
+    },
+    {
+      "operation": "J8-O3",
+      "job_id": 7,
+      "operation_id": 2,
+      "workstation_id": 0,
+      "mode": "HR",
+      "start": 30.0,
+      "end": 36.0,
+      "processing_time": 6
+    }
+  ],
+  "response_stats": "CpSolverResponse summary:\nstatus: OPTIMAL\nobjective: 36\nbest_bound: 36\nintegers: 0\nbooleans: 0\nconflicts: 0\nbranches: 0\npropagations: 0\ninteger_propagations: 0\nrestarts: 0\nlp_iterations: 0\nwalltime: 0.0355707\nusertime: 0.0355708\ndeterministic_time: 0.00217095\ngap_integral: 0.000498274\nsolution_fingerprint: 0x11da492d5bc6efdd\n"
+}

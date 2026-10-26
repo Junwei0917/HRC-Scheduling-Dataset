@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please use this dataset citation when referencing the dataset. License terms are in LICENSE."
+type: dataset
+title: "Human–Robot Collaborative Scheduling Benchmark Dataset"
+version: "2.0.0"
+license: CC-BY-4.0
+abstract: "Complete synthetic H/R/HR scheduling instances, exact generation recipes, seeds, and lower bounds/certified optima."
+authors:
+  - family-names: Gao
+    given-names: Junwei
+  - family-names: Cheng
+    given-names: Bayi
+  - family-names: Wang
+    given-names: Lingjun
+  - family-names: Zhou
+    given-names: Mi
+keywords:
+  - human-robot collaboration
+  - resource-constrained scheduling
+  - benchmark instances
+  - reproducibility

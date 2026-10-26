@@ -1,0 +1,479 @@
+[
+  {
+    "end": 7,
+    "job_id": 0,
+    "operation_id": 0,
+    "sequence_index": 0,
+    "start": 0,
+    "type": "HR",
+    "workstation_id": 2
+  },
+  {
+    "end": 39,
+    "job_id": 0,
+    "operation_id": 1,
+    "sequence_index": 1,
+    "start": 34,
+    "type": "HR",
+    "workstation_id": 0
+  },
+  {
+    "end": 49,
+    "job_id": 0,
+    "operation_id": 2,
+    "sequence_index": 2,
+    "start": 39,
+    "type": "R",
+    "workstation_id": 0
+  },
+  {
+    "end": 32,
+    "job_id": 1,
+    "operation_id": 3,
+    "sequence_index": 0,
+    "start": 25,
+    "type": "R",
+    "workstation_id": 1
+  },
+  {
+    "end": 76,
+    "job_id": 1,
+    "operation_id": 4,
+    "sequence_index": 1,
+    "start": 71,
+    "type": "H",
+    "workstation_id": 0
+  },
+  {
+    "end": 6,
+    "job_id": 2,
+    "operation_id": 5,
+    "sequence_index": 0,
+    "start": 0,
+    "type": "HR",
+    "workstation_id": 0
+  },
+  {
+    "end": 11,
+    "job_id": 2,
+    "operation_id": 6,
+    "sequence_index": 1,
+    "start": 6,
+    "type": "R",
+    "workstation_id": 0
+  },
+  {
+    "end": 26,
+    "job_id": 2,
+    "operation_id": 7,
+    "sequence_index": 2,
+    "start": 16,
+    "type": "HR",
+    "workstation_id": 2
+  },
+  {
+    "end": 34,
+    "job_id": 2,
+    "operation_id": 8,
+    "sequence_index": 3,
+    "start": 26,
+    "type": "R",
+    "workstation_id": 1
+  },
+  {
+    "end": 18,
+    "job_id": 3,
+    "operation_id": 9,
+    "sequence_index": 0,
+    "start": 8,
+    "type": "R",
+    "workstation_id": 2
+  },
+  {
+    "end": 55,
+    "job_id": 3,
+    "operation_id": 10,
+    "sequence_index": 1,
+    "start": 45,
+    "type": "HR",
+    "workstation_id": 1
+  },
+  {
+    "end": 44,
+    "job_id": 4,
+    "operation_id": 11,
+    "sequence_index": 0,
+    "start": 39,
+    "type": "H",
+    "workstation_id": 0
+  },
+  {
+    "end": 71,
+    "job_id": 4,
+    "operation_id": 12,
+    "sequence_index": 1,
+    "start": 63,
+    "type": "HR",
+    "workstation_id": 0
+  },
+  {
+    "end": 25,
+    "job_id": 5,
+    "operation_id": 13,
+    "sequence_index": 0,
+    "start": 18,
+    "type": "R",
+    "workstation_id": 2
+  },
+  {
+    "end": 64,
+    "job_id": 5,
+    "operation_id": 14,
+    "sequence_index": 1,
+    "start": 55,
+    "type": "HR",
+    "workstation_id": 1
+  },
+  {
+    "end": 35,
+    "job_id": 6,
+    "operation_id": 15,
+    "sequence_index": 0,
+    "start": 29,
+    "type": "H",
+    "workstation_id": 1
+  },
+  {
+    "end": 71,
+    "job_id": 6,
+    "operation_id": 16,
+    "sequence_index": 1,
+    "start": 63,
+    "type": "HR",
+    "workstation_id": 2
+  },
+  {
+    "end": 16,
+    "job_id": 7,
+    "operation_id": 17,
+    "sequence_index": 0,
+    "start": 7,
+    "type": "R",
+    "workstation_id": 1
+  },
+  {
+    "end": 33,
+    "job_id": 7,
+    "operation_id": 18,
+    "sequence_index": 1,
+    "start": 25,
+    "type": "R",
+    "workstation_id": 0
+  },
+  {
+    "end": 38,
+    "job_id": 7,
+    "operation_id": 19,
+    "sequence_index": 2,
+    "start": 33,
+    "type": "R",
+    "workstation_id": 2
+  },
+  {
+    "end": 26,
+    "job_id": 8,
+    "operation_id": 20,
+    "sequence_index": 0,
+    "start": 16,
+    "type": "R",
+    "workstation_id": 1
+  },
+  {
+    "end": 71,
+    "job_id": 8,
+    "operation_id": 21,
+    "sequence_index": 1,
+    "start": 64,
+    "type": "H",
+    "workstation_id": 1
+  },
+  {
+    "end": 27,
+    "job_id": 9,
+    "operation_id": 22,
+    "sequence_index": 0,
+    "start": 17,
+    "type": "HR",
+    "workstation_id": 0
+  },
+  {
+    "end": 63,
+    "job_id": 9,
+    "operation_id": 23,
+    "sequence_index": 1,
+    "start": 55,
+    "type": "H",
+    "workstation_id": 2
+  },
+  {
+    "end": 7,
+    "job_id": 10,
+    "operation_id": 24,
+    "sequence_index": 0,
+    "start": 0,
+    "type": "HR",
+    "workstation_id": 1
+  },
+  {
+    "end": 16,
+    "job_id": 10,
+    "operation_id": 25,
+    "sequence_index": 1,
+    "start": 7,
+    "type": "HR",
+    "workstation_id": 2
+  },
+  {
+    "end": 25,
+    "job_id": 10,
+    "operation_id": 26,
+    "sequence_index": 2,
+    "start": 20,
+    "type": "R",
+    "workstation_id": 1
+  },
+  {
+    "end": 33,
+    "job_id": 10,
+    "operation_id": 27,
+    "sequence_index": 3,
+    "start": 25,
+    "type": "R",
+    "workstation_id": 2
+  },
+  {
+    "end": 5,
+    "job_id": 11,
+    "operation_id": 28,
+    "sequence_index": 0,
+    "start": 0,
+    "type": "R",
+    "workstation_id": 1
+  },
+  {
+    "end": 11,
+    "job_id": 11,
+    "operation_id": 29,
+    "sequence_index": 1,
+    "start": 5,
+    "type": "R",
+    "workstation_id": 1
+  },
+  {
+    "end": 24,
+    "job_id": 11,
+    "operation_id": 30,
+    "sequence_index": 2,
+    "start": 17,
+    "type": "H",
+    "workstation_id": 1
+  },
+  {
+    "end": 54,
+    "job_id": 11,
+    "operation_id": 31,
+    "sequence_index": 3,
+    "start": 44,
+    "type": "H",
+    "workstation_id": 0
+  },
+  {
+    "end": 20,
+    "job_id": 12,
+    "operation_id": 32,
+    "sequence_index": 0,
+    "start": 11,
+    "type": "R",
+    "workstation_id": 1
+  },
+  {
+    "end": 63,
+    "job_id": 12,
+    "operation_id": 33,
+    "sequence_index": 1,
+    "start": 54,
+    "type": "H",
+    "workstation_id": 0
+  },
+  {
+    "end": 36,
+    "job_id": 13,
+    "operation_id": 34,
+    "sequence_index": 0,
+    "start": 26,
+    "type": "HR",
+    "workstation_id": 2
+  },
+  {
+    "end": 46,
+    "job_id": 13,
+    "operation_id": 35,
+    "sequence_index": 1,
+    "start": 38,
+    "type": "R",
+    "workstation_id": 2
+  },
+  {
+    "end": 17,
+    "job_id": 14,
+    "operation_id": 36,
+    "sequence_index": 0,
+    "start": 7,
+    "type": "H",
+    "workstation_id": 1
+  },
+  {
+    "end": 76,
+    "job_id": 14,
+    "operation_id": 37,
+    "sequence_index": 1,
+    "start": 71,
+    "type": "HR",
+    "workstation_id": 1
+  },
+  {
+    "end": 8,
+    "job_id": 15,
+    "operation_id": 38,
+    "sequence_index": 0,
+    "start": 0,
+    "type": "R",
+    "workstation_id": 2
+  },
+  {
+    "end": 29,
+    "job_id": 15,
+    "operation_id": 39,
+    "sequence_index": 1,
+    "start": 24,
+    "type": "H",
+    "workstation_id": 1
+  },
+  {
+    "end": 42,
+    "job_id": 15,
+    "operation_id": 40,
+    "sequence_index": 2,
+    "start": 32,
+    "type": "R",
+    "workstation_id": 1
+  },
+  {
+    "end": 17,
+    "job_id": 16,
+    "operation_id": 41,
+    "sequence_index": 0,
+    "start": 11,
+    "type": "HR",
+    "workstation_id": 0
+  },
+  {
+    "end": 45,
+    "job_id": 16,
+    "operation_id": 42,
+    "sequence_index": 1,
+    "start": 35,
+    "type": "HR",
+    "workstation_id": 1
+  },
+  {
+    "end": 76,
+    "job_id": 16,
+    "operation_id": 43,
+    "sequence_index": 2,
+    "start": 71,
+    "type": "HR",
+    "workstation_id": 2
+  },
+  {
+    "end": 25,
+    "job_id": 17,
+    "operation_id": 44,
+    "sequence_index": 0,
+    "start": 16,
+    "type": "R",
+    "workstation_id": 0
+  },
+  {
+    "end": 41,
+    "job_id": 17,
+    "operation_id": 45,
+    "sequence_index": 1,
+    "start": 33,
+    "type": "R",
+    "workstation_id": 0
+  },
+  {
+    "end": 11,
+    "job_id": 18,
+    "operation_id": 46,
+    "sequence_index": 0,
+    "start": 6,
+    "type": "H",
+    "workstation_id": 0
+  },
+  {
+    "end": 45,
+    "job_id": 18,
+    "operation_id": 47,
+    "sequence_index": 1,
+    "start": 36,
+    "type": "HR",
+    "workstation_id": 2
+  },
+  {
+    "end": 81,
+    "job_id": 18,
+    "operation_id": 48,
+    "sequence_index": 2,
+    "start": 76,
+    "type": "HR",
+    "workstation_id": 0
+  },
+  {
+    "end": 7,
+    "job_id": 19,
+    "operation_id": 49,
+    "sequence_index": 0,
+    "start": 0,
+    "type": "R",
+    "workstation_id": 0
+  },
+  {
+    "end": 16,
+    "job_id": 19,
+    "operation_id": 50,
+    "sequence_index": 1,
+    "start": 7,
+    "type": "R",
+    "workstation_id": 0
+  },
+  {
+    "end": 34,
+    "job_id": 19,
+    "operation_id": 51,
+    "sequence_index": 2,
+    "start": 27,
+    "type": "HR",
+    "workstation_id": 0
+  },
+  {
+    "end": 55,
+    "job_id": 19,
+    "operation_id": 52,
+    "sequence_index": 3,
+    "start": 45,
+    "type": "HR",
+    "workstation_id": 2
+  }
+]

@@ -1,0 +1,157 @@
+{
+  "status": "OPTIMAL",
+  "status_code": 4,
+  "makespan": 37.0,
+  "best_bound": 37.0,
+  "relative_gap": 0.0,
+  "runtime": 0.007136300000000001,
+  "num_variables": 71,
+  "num_boolean_variables": 42,
+  "num_constraints": 102,
+  "conflicts": 0,
+  "branches": 0,
+  "time_horizon": 37,
+  "schedule": [
+    {
+      "operation": "J3-O1",
+      "job_id": 2,
+      "operation_id": 0,
+      "workstation_id": 0,
+      "mode": "R",
+      "start": 0.0,
+      "end": 10.0,
+      "processing_time": 10
+    },
+    {
+      "operation": "J4-O1",
+      "job_id": 3,
+      "operation_id": 0,
+      "workstation_id": 0,
+      "mode": "H",
+      "start": 0.0,
+      "end": 5.0,
+      "processing_time": 5
+    },
+    {
+      "operation": "J5-O1",
+      "job_id": 4,
+      "operation_id": 0,
+      "workstation_id": 0,
+      "mode": "R",
+      "start": 0.0,
+      "end": 9.0,
+      "processing_time": 9
+    },
+    {
+      "operation": "J1-O1",
+      "job_id": 0,
+      "operation_id": 0,
+      "workstation_id": 2,
+      "mode": "R",
+      "start": 0.0,
+      "end": 5.0,
+      "processing_time": 5
+    },
+    {
+      "operation": "J2-O1",
+      "job_id": 1,
+      "operation_id": 0,
+      "workstation_id": 2,
+      "mode": "HR",
+      "start": 0.0,
+      "end": 10.0,
+      "processing_time": 10
+    },
+    {
+      "operation": "J1-O2",
+      "job_id": 0,
+      "operation_id": 1,
+      "workstation_id": 1,
+      "mode": "HR",
+      "start": 5.0,
+      "end": 12.0,
+      "processing_time": 7
+    },
+    {
+      "operation": "J4-O2",
+      "job_id": 3,
+      "operation_id": 1,
+      "workstation_id": 2,
+      "mode": "R",
+      "start": 5.0,
+      "end": 15.0,
+      "processing_time": 10
+    },
+    {
+      "operation": "J5-O2",
+      "job_id": 4,
+      "operation_id": 1,
+      "workstation_id": 0,
+      "mode": "H",
+      "start": 9.0,
+      "end": 18.0,
+      "processing_time": 9
+    },
+    {
+      "operation": "J3-O2",
+      "job_id": 2,
+      "operation_id": 1,
+      "workstation_id": 0,
+      "mode": "R",
+      "start": 10.0,
+      "end": 19.0,
+      "processing_time": 9
+    },
+    {
+      "operation": "J2-O2",
+      "job_id": 1,
+      "operation_id": 1,
+      "workstation_id": 2,
+      "mode": "HR",
+      "start": 10.0,
+      "end": 15.0,
+      "processing_time": 5
+    },
+    {
+      "operation": "J5-O3",
+      "job_id": 4,
+      "operation_id": 2,
+      "workstation_id": 0,
+      "mode": "H",
+      "start": 18.0,
+      "end": 28.0,
+      "processing_time": 10
+    },
+    {
+      "operation": "J3-O3",
+      "job_id": 2,
+      "operation_id": 2,
+      "workstation_id": 2,
+      "mode": "HR",
+      "start": 19.0,
+      "end": 28.0,
+      "processing_time": 9
+    },
+    {
+      "operation": "J3-O4",
+      "job_id": 2,
+      "operation_id": 3,
+      "workstation_id": 0,
+      "mode": "HR",
+      "start": 28.0,
+      "end": 37.0,
+      "processing_time": 9
+    },
+    {
+      "operation": "J5-O4",
+      "job_id": 4,
+      "operation_id": 3,
+      "workstation_id": 2,
+      "mode": "HR",
+      "start": 28.0,
+      "end": 35.0,
+      "processing_time": 7
+    }
+  ],
+  "response_stats": "CpSolverResponse summary:\nstatus: OPTIMAL\nobjective: 37\nbest_bound: 37\nintegers: 0\nbooleans: 0\nconflicts: 0\nbranches: 0\npropagations: 0\ninteger_propagations: 0\nrestarts: 0\nlp_iterations: 0\nwalltime: 0.0071363\nusertime: 0.0071363\ndeterministic_time: 5.7922e-05\ngap_integral: 0\nsolution_fingerprint: 0x4b730662be42b732\n"
+}

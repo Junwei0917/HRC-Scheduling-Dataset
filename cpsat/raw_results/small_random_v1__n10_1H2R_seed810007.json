@@ -1,0 +1,327 @@
+{
+  "status": "OPTIMAL",
+  "status_code": 4,
+  "makespan": 40.0,
+  "best_bound": 40.0,
+  "relative_gap": 0.0,
+  "runtime": 0.0477908,
+  "num_variables": 156,
+  "num_boolean_variables": 93,
+  "num_constraints": 216,
+  "conflicts": 0,
+  "branches": 0,
+  "time_horizon": 43,
+  "schedule": [
+    {
+      "operation": "J8-O1",
+      "job_id": 7,
+      "operation_id": 0,
+      "workstation_id": 0,
+      "mode": "H",
+      "start": 0.0,
+      "end": 8.0,
+      "processing_time": 8
+    },
+    {
+      "operation": "J9-O1",
+      "job_id": 8,
+      "operation_id": 0,
+      "workstation_id": 0,
+      "mode": "R",
+      "start": 0.0,
+      "end": 9.0,
+      "processing_time": 9
+    },
+    {
+      "operation": "J4-O1",
+      "job_id": 3,
+      "operation_id": 0,
+      "workstation_id": 1,
+      "mode": "R",
+      "start": 0.0,
+      "end": 6.0,
+      "processing_time": 6
+    },
+    {
+      "operation": "J7-O1",
+      "job_id": 6,
+      "operation_id": 0,
+      "workstation_id": 1,
+      "mode": "HR",
+      "start": 0.0,
+      "end": 6.0,
+      "processing_time": 6
+    },
+    {
+      "operation": "J1-O1",
+      "job_id": 0,
+      "operation_id": 0,
+      "workstation_id": 2,
+      "mode": "R",
+      "start": 0.0,
+      "end": 5.0,
+      "processing_time": 5
+    },
+    {
+      "operation": "J5-O1",
+      "job_id": 4,
+      "operation_id": 0,
+      "workstation_id": 2,
+      "mode": "HR",
+      "start": 0.0,
+      "end": 6.0,
+      "processing_time": 6
+    },
+    {
+      "operation": "J3-O1",
+      "job_id": 2,
+      "operation_id": 0,
+      "workstation_id": 0,
+      "mode": "R",
+      "start": 5.0,
+      "end": 12.0,
+      "processing_time": 7
+    },
+    {
+      "operation": "J2-O1",
+      "job_id": 1,
+      "operation_id": 0,
+      "workstation_id": 2,
+      "mode": "R",
+      "start": 5.0,
+      "end": 10.0,
+      "processing_time": 5
+    },
+    {
+      "operation": "J4-O2",
+      "job_id": 3,
+      "operation_id": 1,
+      "workstation_id": 1,
+      "mode": "HR",
+      "start": 6.0,
+      "end": 14.0,
+      "processing_time": 8
+    },
+    {
+      "operation": "J1-O2",
+      "job_id": 0,
+      "operation_id": 1,
+      "workstation_id": 2,
+      "mode": "HR",
+      "start": 6.0,
+      "end": 16.0,
+      "processing_time": 10
+    },
+    {
+      "operation": "J8-O2",
+      "job_id": 7,
+      "operation_id": 1,
+      "workstation_id": 1,
+      "mode": "R",
+      "start": 8.0,
+      "end": 14.0,
+      "processing_time": 6
+    },
+    {
+      "operation": "J7-O2",
+      "job_id": 6,
+      "operation_id": 1,
+      "workstation_id": 0,
+      "mode": "R",
+      "start": 9.0,
+      "end": 14.0,
+      "processing_time": 5
+    },
+    {
+      "operation": "J9-O2",
+      "job_id": 8,
+      "operation_id": 1,
+      "workstation_id": 0,
+      "mode": "H",
+      "start": 9.0,
+      "end": 14.0,
+      "processing_time": 5
+    },
+    {
+      "operation": "J6-O1",
+      "job_id": 5,
+      "operation_id": 0,
+      "workstation_id": 2,
+      "mode": "R",
+      "start": 10.0,
+      "end": 20.0,
+      "processing_time": 10
+    },
+    {
+      "operation": "J10-O1",
+      "job_id": 9,
+      "operation_id": 0,
+      "workstation_id": 0,
+      "mode": "R",
+      "start": 12.0,
+      "end": 20.0,
+      "processing_time": 8
+    },
+    {
+      "operation": "J7-O3",
+      "job_id": 6,
+      "operation_id": 2,
+      "workstation_id": 0,
+      "mode": "HR",
+      "start": 14.0,
+      "end": 24.0,
+      "processing_time": 10
+    },
+    {
+      "operation": "J8-O3",
+      "job_id": 7,
+      "operation_id": 2,
+      "workstation_id": 1,
+      "mode": "H",
+      "start": 14.0,
+      "end": 21.0,
+      "processing_time": 7
+    },
+    {
+      "operation": "J3-O2",
+      "job_id": 2,
+      "operation_id": 1,
+      "workstation_id": 1,
+      "mode": "R",
+      "start": 16.0,
+      "end": 26.0,
+      "processing_time": 10
+    },
+    {
+      "operation": "J2-O2",
+      "job_id": 1,
+      "operation_id": 1,
+      "workstation_id": 2,
+      "mode": "H",
+      "start": 16.0,
+      "end": 26.0,
+      "processing_time": 10
+    },
+    {
+      "operation": "J5-O2",
+      "job_id": 4,
+      "operation_id": 1,
+      "workstation_id": 2,
+      "mode": "R",
+      "start": 16.0,
+      "end": 21.0,
+      "processing_time": 5
+    },
+    {
+      "operation": "J6-O2",
+      "job_id": 5,
+      "operation_id": 1,
+      "workstation_id": 0,
+      "mode": "R",
+      "start": 20.0,
+      "end": 29.0,
+      "processing_time": 9
+    },
+    {
+      "operation": "J10-O2",
+      "job_id": 9,
+      "operation_id": 1,
+      "workstation_id": 1,
+      "mode": "H",
+      "start": 21.0,
+      "end": 27.0,
+      "processing_time": 6
+    },
+    {
+      "operation": "J5-O3",
+      "job_id": 4,
+      "operation_id": 2,
+      "workstation_id": 2,
+      "mode": "R",
+      "start": 21.0,
+      "end": 27.0,
+      "processing_time": 6
+    },
+    {
+      "operation": "J1-O3",
+      "job_id": 0,
+      "operation_id": 2,
+      "workstation_id": 0,
+      "mode": "H",
+      "start": 24.0,
+      "end": 29.0,
+      "processing_time": 5
+    },
+    {
+      "operation": "J2-O3",
+      "job_id": 1,
+      "operation_id": 2,
+      "workstation_id": 1,
+      "mode": "R",
+      "start": 26.0,
+      "end": 32.0,
+      "processing_time": 6
+    },
+    {
+      "operation": "J4-O3",
+      "job_id": 3,
+      "operation_id": 2,
+      "workstation_id": 2,
+      "mode": "H",
+      "start": 26.0,
+      "end": 35.0,
+      "processing_time": 9
+    },
+    {
+      "operation": "J10-O3",
+      "job_id": 9,
+      "operation_id": 2,
+      "workstation_id": 1,
+      "mode": "HR",
+      "start": 27.0,
+      "end": 32.0,
+      "processing_time": 5
+    },
+    {
+      "operation": "J6-O3",
+      "job_id": 5,
+      "operation_id": 2,
+      "workstation_id": 0,
+      "mode": "HR",
+      "start": 29.0,
+      "end": 35.0,
+      "processing_time": 6
+    },
+    {
+      "operation": "J10-O4",
+      "job_id": 9,
+      "operation_id": 3,
+      "workstation_id": 1,
+      "mode": "H",
+      "start": 32.0,
+      "end": 39.0,
+      "processing_time": 7
+    },
+    {
+      "operation": "J2-O4",
+      "job_id": 1,
+      "operation_id": 3,
+      "workstation_id": 0,
+      "mode": "H",
+      "start": 35.0,
+      "end": 40.0,
+      "processing_time": 5
+    },
+    {
+      "operation": "J5-O4",
+      "job_id": 4,
+      "operation_id": 3,
+      "workstation_id": 2,
+      "mode": "HR",
+      "start": 35.0,
+      "end": 40.0,
+      "processing_time": 5
+    }
+  ],
+  "response_stats": "CpSolverResponse summary:\nstatus: OPTIMAL\nobjective: 40\nbest_bound: 40\nintegers: 0\nbooleans: 0\nconflicts: 0\nbranches: 0\npropagations: 0\ninteger_propagations: 0\nrestarts: 0\nlp_iterations: 0\nwalltime: 0.0477908\nusertime: 0.0477909\ndeterministic_time: 0.0117043\ngap_integral: 0.00177276\nsolution_fingerprint: 0x6917f8cf1342168c\n"
+}

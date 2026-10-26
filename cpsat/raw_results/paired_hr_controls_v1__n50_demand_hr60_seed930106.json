@@ -1,0 +1,24 @@
+{
+  "status": "OPTIMAL",
+  "lower": 200,
+  "upper": 200,
+  "seconds": 22.89258069999778,
+  "analytic": {
+    "human": 179,
+    "robot": 179,
+    "hr_pair": 200,
+    "chain": 51
+  },
+  "work": {
+    "H": 71,
+    "R": 604,
+    "HR": 999
+  },
+  "proven": true,
+  "mwkr_upper": 204,
+  "initialization": "MWKR only; no learned hints or bounds",
+  "budget_seconds": 600,
+  "workers": 8,
+  "completed_at": "2026-10-19T17:26:22.200784+08:00",
+  "execution_revision": "full-only-v2-parallel3"
+}

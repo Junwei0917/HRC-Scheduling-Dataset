@@ -1,0 +1,808 @@
+{
+  "collection": "robot_bottleneck_v1",
+  "instances": [
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed700001",
+      "instance_id": "robot_bottleneck_v1__robot_heavy_mix_200j_seed700001",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.1,
+        0.6,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "1d61a2a17ed15ddc27a45ad7a34895b28e97009fed84b0ea005d80f8d50d9d51",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700001,
+      "setting": "robot_heavy_mix",
+      "source_case_id": "robot_heavy_mix_200j_seed700001",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed700002",
+      "instance_id": "robot_bottleneck_v1__robot_heavy_mix_200j_seed700002",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.1,
+        0.6,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "c20593f5767aab3eb3a311f60df821e57df280eb58f4d68f8e10a70f5d7291ef",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700002,
+      "setting": "robot_heavy_mix",
+      "source_case_id": "robot_heavy_mix_200j_seed700002",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed700003",
+      "instance_id": "robot_bottleneck_v1__robot_heavy_mix_200j_seed700003",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.1,
+        0.6,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "1e9bf75a393e26509f9cd8a5b893c2e6b10ea37137f0c083684caa39fc6f6fec",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700003,
+      "setting": "robot_heavy_mix",
+      "source_case_id": "robot_heavy_mix_200j_seed700003",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed700004",
+      "instance_id": "robot_bottleneck_v1__robot_heavy_mix_200j_seed700004",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.1,
+        0.6,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "ad6121f58e5413205f8d7dab8aaa99609b76749a4ff955e8c298d2c4f6b6368b",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700004,
+      "setting": "robot_heavy_mix",
+      "source_case_id": "robot_heavy_mix_200j_seed700004",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed700005",
+      "instance_id": "robot_bottleneck_v1__robot_heavy_mix_200j_seed700005",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.1,
+        0.6,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "60f9ac0acc0e1c04ef1b30af75ba6f1d7589968939a3311215b2ec8e481376fd",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700005,
+      "setting": "robot_heavy_mix",
+      "source_case_id": "robot_heavy_mix_200j_seed700005",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed700001",
+      "instance_id": "robot_bottleneck_v1__robot_heavy_mix_50j_seed700001",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.1,
+        0.6,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "1d4e7f3d849555017b744cb41b3bb72da83e9a30399671fac831c263c66c9aed",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700001,
+      "setting": "robot_heavy_mix",
+      "source_case_id": "robot_heavy_mix_50j_seed700001",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed700002",
+      "instance_id": "robot_bottleneck_v1__robot_heavy_mix_50j_seed700002",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.1,
+        0.6,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "3e3986267c9a8904684c56bdea64077deb60cc81fe8774c69389738504d28d76",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700002,
+      "setting": "robot_heavy_mix",
+      "source_case_id": "robot_heavy_mix_50j_seed700002",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed700003",
+      "instance_id": "robot_bottleneck_v1__robot_heavy_mix_50j_seed700003",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.1,
+        0.6,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "c55bdc1bfd8a974c227aeea5b10853dec9c36849c8f72c3c7b06e83df421ca96",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700003,
+      "setting": "robot_heavy_mix",
+      "source_case_id": "robot_heavy_mix_50j_seed700003",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed700004",
+      "instance_id": "robot_bottleneck_v1__robot_heavy_mix_50j_seed700004",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.1,
+        0.6,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "f673c647d71b35c4c13de9609d917fc32977a57e3bbc021f21fb0927d3ec6517",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700004,
+      "setting": "robot_heavy_mix",
+      "source_case_id": "robot_heavy_mix_50j_seed700004",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed700005",
+      "instance_id": "robot_bottleneck_v1__robot_heavy_mix_50j_seed700005",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "mode_probabilities": [
+        0.1,
+        0.6,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "0622c08f8aadb70bcc84ecf746b91a84a43ca61b41bdc66ed6148db4290b8ba7",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700005,
+      "setting": "robot_heavy_mix",
+      "source_case_id": "robot_heavy_mix_50j_seed700005",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed700001",
+      "instance_id": "robot_bottleneck_v1__scarce_robots_200j_seed700001",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "5831e663a6399ade71cf5d3b94a48f3bc31bc6be039550280c7b8a6f1379c799",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700001,
+      "setting": "scarce_robots",
+      "source_case_id": "scarce_robots_200j_seed700001",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed700002",
+      "instance_id": "robot_bottleneck_v1__scarce_robots_200j_seed700002",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "52b0fc82fc34b8eba50588f9eb4b3cf822126eb46dcfc93c35f27e8c408dc87e",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700002,
+      "setting": "scarce_robots",
+      "source_case_id": "scarce_robots_200j_seed700002",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed700003",
+      "instance_id": "robot_bottleneck_v1__scarce_robots_200j_seed700003",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "e8991e92ffa7597ff7bf6f2bbefd1d9e5a1fafbd7914236db5e84b38ae65cd3e",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700003,
+      "setting": "scarce_robots",
+      "source_case_id": "scarce_robots_200j_seed700003",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed700004",
+      "instance_id": "robot_bottleneck_v1__scarce_robots_200j_seed700004",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "4904a077f3cc702a53a8fa8c2cf1b264c1fd1f60305aa8a026eeb07007c54448",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700004,
+      "setting": "scarce_robots",
+      "source_case_id": "scarce_robots_200j_seed700004",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n200_seed700005",
+      "instance_id": "robot_bottleneck_v1__scarce_robots_200j_seed700005",
+      "jobs": 200,
+      "layouts_humans_robots": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "b079de79462ccd2e480149bd28dedc901e5e925da3950a9dd15746416af89a78",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700005,
+      "setting": "scarce_robots",
+      "source_case_id": "scarce_robots_200j_seed700005",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed700001",
+      "instance_id": "robot_bottleneck_v1__scarce_robots_50j_seed700001",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "700548d427cc365d1fe6c4eaa66e2ba0795090604eef9c5efd3e19b66748e930",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700001,
+      "setting": "scarce_robots",
+      "source_case_id": "scarce_robots_50j_seed700001",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed700002",
+      "instance_id": "robot_bottleneck_v1__scarce_robots_50j_seed700002",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "2319d99e261aa04d4970025dd3908652d0f056cd41250e4e3bd4bd7c35f766c6",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700002,
+      "setting": "scarce_robots",
+      "source_case_id": "scarce_robots_50j_seed700002",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed700003",
+      "instance_id": "robot_bottleneck_v1__scarce_robots_50j_seed700003",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "ea8150e1b7896900672a72199bee22c5b24216e4123d9ded53e13c109ccf28f5",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700003,
+      "setting": "scarce_robots",
+      "source_case_id": "scarce_robots_50j_seed700003",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed700004",
+      "instance_id": "robot_bottleneck_v1__scarce_robots_50j_seed700004",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "c1203d7be7739a910259a7db0d4849937bff4d1f3a2a64cca636f61664e8ab70",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700004,
+      "setting": "scarce_robots",
+      "source_case_id": "scarce_robots_50j_seed700004",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    },
+    {
+      "algorithm": "independent_duration_v1",
+      "collection": "robot_bottleneck_v1",
+      "generation_base_id": "independent_duration_v1_n50_seed700005",
+      "instance_id": "robot_bottleneck_v1__scarce_robots_50j_seed700005",
+      "jobs": 50,
+      "layouts_humans_robots": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "mode_probabilities": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "operations_per_job": [
+        3,
+        6
+      ],
+      "original_instance_sha256": "2eaf68992e8fd6569d9c7be67a6786e68dc8a4861ba5223f5b05ef9315a28201",
+      "processing_time_range": [
+        5,
+        10
+      ],
+      "role": "historical_benchmark",
+      "seed": 700005,
+      "setting": "scarce_robots",
+      "source_case_id": "scarce_robots_50j_seed700005",
+      "source_run": "reviewer2_nonhuman_full5_20261016"
+    }
+  ],
+  "numpy_version": "2.4.4",
+  "seed_semantics": "Instance seed fixes complete scheduling input; policy/solver RNG does not change the instance",
+  "version": "1.0"
+}

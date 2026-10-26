@@ -1,0 +1,5630 @@
+{
+  "collection": "paired_hr_controls_v1",
+  "generation": {
+    "algorithm": "paired_hr_controls_v1",
+    "generation_base_id": "paired_hr_controls_v1_n50_seed930123",
+    "instance_seed": 930123,
+    "role": "benchmark",
+    "setting": "capacity_x2"
+  },
+  "instance_id": "paired_hr_controls_v1__n50_capacity_x2_seed930123",
+  "jobs": [
+    {
+      "job_id": 0,
+      "operation_ids": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 1,
+      "operation_ids": [
+        5,
+        6,
+        7
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 2,
+      "operation_ids": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 3,
+      "operation_ids": [
+        12,
+        13,
+        14
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 4,
+      "operation_ids": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 5,
+      "operation_ids": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 6,
+      "operation_ids": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 7,
+      "operation_ids": [
+        31,
+        32,
+        33
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 8,
+      "operation_ids": [
+        34,
+        35,
+        36
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 9,
+      "operation_ids": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 10,
+      "operation_ids": [
+        43,
+        44,
+        45
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 11,
+      "operation_ids": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 12,
+      "operation_ids": [
+        52,
+        53,
+        54,
+        55
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 13,
+      "operation_ids": [
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 14,
+      "operation_ids": [
+        61,
+        62,
+        63
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 15,
+      "operation_ids": [
+        64,
+        65,
+        66
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 16,
+      "operation_ids": [
+        67,
+        68,
+        69
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 17,
+      "operation_ids": [
+        70,
+        71,
+        72,
+        73
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 18,
+      "operation_ids": [
+        74,
+        75,
+        76,
+        77,
+        78,
+        79
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 19,
+      "operation_ids": [
+        80,
+        81,
+        82
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 20,
+      "operation_ids": [
+        83,
+        84,
+        85,
+        86,
+        87,
+        88
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 21,
+      "operation_ids": [
+        89,
+        90,
+        91,
+        92,
+        93,
+        94
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 22,
+      "operation_ids": [
+        95,
+        96,
+        97,
+        98
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 23,
+      "operation_ids": [
+        99,
+        100,
+        101,
+        102,
+        103,
+        104
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 24,
+      "operation_ids": [
+        105,
+        106,
+        107,
+        108,
+        109,
+        110
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 25,
+      "operation_ids": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 26,
+      "operation_ids": [
+        117,
+        118,
+        119,
+        120
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 27,
+      "operation_ids": [
+        121,
+        122,
+        123,
+        124,
+        125
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 28,
+      "operation_ids": [
+        126,
+        127,
+        128,
+        129
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 29,
+      "operation_ids": [
+        130,
+        131,
+        132,
+        133
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 30,
+      "operation_ids": [
+        134,
+        135,
+        136,
+        137,
+        138
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 31,
+      "operation_ids": [
+        139,
+        140,
+        141,
+        142
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 32,
+      "operation_ids": [
+        143,
+        144,
+        145,
+        146
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 33,
+      "operation_ids": [
+        147,
+        148,
+        149,
+        150,
+        151
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 34,
+      "operation_ids": [
+        152,
+        153,
+        154,
+        155,
+        156,
+        157
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 35,
+      "operation_ids": [
+        158,
+        159,
+        160,
+        161
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 36,
+      "operation_ids": [
+        162,
+        163,
+        164,
+        165,
+        166,
+        167
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 37,
+      "operation_ids": [
+        168,
+        169,
+        170
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 38,
+      "operation_ids": [
+        171,
+        172,
+        173
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 39,
+      "operation_ids": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 40,
+      "operation_ids": [
+        179,
+        180,
+        181
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 41,
+      "operation_ids": [
+        182,
+        183,
+        184,
+        185
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 42,
+      "operation_ids": [
+        186,
+        187,
+        188,
+        189
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 43,
+      "operation_ids": [
+        190,
+        191,
+        192,
+        193
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 44,
+      "operation_ids": [
+        194,
+        195,
+        196,
+        197,
+        198
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 45,
+      "operation_ids": [
+        199,
+        200,
+        201,
+        202,
+        203,
+        204
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 46,
+      "operation_ids": [
+        205,
+        206,
+        207,
+        208,
+        209
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 47,
+      "operation_ids": [
+        210,
+        211,
+        212,
+        213,
+        214
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 48,
+      "operation_ids": [
+        215,
+        216,
+        217,
+        218,
+        219
+      ],
+      "release_time": 0
+    },
+    {
+      "job_id": 49,
+      "operation_ids": [
+        220,
+        221,
+        222,
+        223,
+        224
+      ],
+      "release_time": 0
+    }
+  ],
+  "model": {
+    "hr_requires_same_station_simultaneous_interval": true,
+    "interval_convention": "[start,end)",
+    "nonpreemptive": true,
+    "objective": "minimize_makespan",
+    "operation_type_fixed": true,
+    "precedence": "independent_job_chains",
+    "processing_time_station_invariant": true,
+    "setup_times": 0,
+    "time_unit": "abstract_integer_unit",
+    "transfer_times": 0
+  },
+  "n_jobs": 50,
+  "n_operations": 225,
+  "n_workstations": 3,
+  "operations": [
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 0,
+      "operation_id": 0,
+      "predecessors": [],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 0,
+      "operation_id": 1,
+      "predecessors": [
+        0
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 0,
+      "operation_id": 2,
+      "predecessors": [
+        1
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 0,
+      "operation_id": 3,
+      "predecessors": [
+        2
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 0,
+      "operation_id": 4,
+      "predecessors": [
+        3
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 1,
+      "operation_id": 5,
+      "predecessors": [],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 1,
+      "operation_id": 6,
+      "predecessors": [
+        5
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 1,
+      "operation_id": 7,
+      "predecessors": [
+        6
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 2,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 2,
+      "operation_id": 8,
+      "predecessors": [],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 0,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 2,
+      "operation_id": 9,
+      "predecessors": [
+        8
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 2,
+      "operation_id": 10,
+      "predecessors": [
+        9
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 2,
+      "operation_id": 11,
+      "predecessors": [
+        10
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 3,
+      "operation_id": 12,
+      "predecessors": [],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 3,
+      "operation_id": 13,
+      "predecessors": [
+        12
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 3,
+      "operation_id": 14,
+      "predecessors": [
+        13
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 2,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 4,
+      "operation_id": 15,
+      "predecessors": [],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 4,
+      "operation_id": 16,
+      "predecessors": [
+        15
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 4,
+      "operation_id": 17,
+      "predecessors": [
+        16
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 4,
+      "operation_id": 18,
+      "predecessors": [
+        17
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 4,
+      "operation_id": 19,
+      "predecessors": [
+        18
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 4,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 5,
+      "operation_id": 20,
+      "predecessors": [],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 5,
+      "operation_id": 21,
+      "predecessors": [
+        20
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 5,
+      "operation_id": 22,
+      "predecessors": [
+        21
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 5,
+      "operation_id": 23,
+      "predecessors": [
+        22
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 5,
+      "operation_id": 24,
+      "predecessors": [
+        23
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 5,
+      "operation_id": 25,
+      "predecessors": [
+        24
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 5,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 6,
+      "operation_id": 26,
+      "predecessors": [],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 0,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 6,
+      "operation_id": 27,
+      "predecessors": [
+        26
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 6,
+      "operation_id": 28,
+      "predecessors": [
+        27
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 6,
+      "operation_id": 29,
+      "predecessors": [
+        28
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 6,
+      "operation_id": 30,
+      "predecessors": [
+        29
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 7,
+      "operation_id": 31,
+      "predecessors": [],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 7,
+      "operation_id": 32,
+      "predecessors": [
+        31
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 7,
+      "operation_id": 33,
+      "predecessors": [
+        32
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 8,
+      "operation_id": 34,
+      "predecessors": [],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 8,
+      "operation_id": 35,
+      "predecessors": [
+        34
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 8,
+      "operation_id": 36,
+      "predecessors": [
+        35
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 9,
+      "operation_id": 37,
+      "predecessors": [],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 9,
+      "operation_id": 38,
+      "predecessors": [
+        37
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 9,
+      "operation_id": 39,
+      "predecessors": [
+        38
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 9,
+      "operation_id": 40,
+      "predecessors": [
+        39
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 9,
+      "operation_id": 41,
+      "predecessors": [
+        40
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 9,
+      "operation_id": 42,
+      "predecessors": [
+        41
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 5,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 10,
+      "operation_id": 43,
+      "predecessors": [],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 10,
+      "operation_id": 44,
+      "predecessors": [
+        43
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 1,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 10,
+      "operation_id": 45,
+      "predecessors": [
+        44
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 11,
+      "operation_id": 46,
+      "predecessors": [],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 11,
+      "operation_id": 47,
+      "predecessors": [
+        46
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 11,
+      "operation_id": 48,
+      "predecessors": [
+        47
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 11,
+      "operation_id": 49,
+      "predecessors": [
+        48
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 11,
+      "operation_id": 50,
+      "predecessors": [
+        49
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 11,
+      "operation_id": 51,
+      "predecessors": [
+        50
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 5,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 12,
+      "operation_id": 52,
+      "predecessors": [],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 12,
+      "operation_id": 53,
+      "predecessors": [
+        52
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 12,
+      "operation_id": 54,
+      "predecessors": [
+        53
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 12,
+      "operation_id": 55,
+      "predecessors": [
+        54
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 13,
+      "operation_id": 56,
+      "predecessors": [],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 13,
+      "operation_id": 57,
+      "predecessors": [
+        56
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 13,
+      "operation_id": 58,
+      "predecessors": [
+        57
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 13,
+      "operation_id": 59,
+      "predecessors": [
+        58
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 13,
+      "operation_id": 60,
+      "predecessors": [
+        59
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 14,
+      "operation_id": 61,
+      "predecessors": [],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 14,
+      "operation_id": 62,
+      "predecessors": [
+        61
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 14,
+      "operation_id": 63,
+      "predecessors": [
+        62
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 15,
+      "operation_id": 64,
+      "predecessors": [],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 15,
+      "operation_id": 65,
+      "predecessors": [
+        64
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 15,
+      "operation_id": 66,
+      "predecessors": [
+        65
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 16,
+      "operation_id": 67,
+      "predecessors": [],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 16,
+      "operation_id": 68,
+      "predecessors": [
+        67
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 16,
+      "operation_id": 69,
+      "predecessors": [
+        68
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 2,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 17,
+      "operation_id": 70,
+      "predecessors": [],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 17,
+      "operation_id": 71,
+      "predecessors": [
+        70
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 17,
+      "operation_id": 72,
+      "predecessors": [
+        71
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 17,
+      "operation_id": 73,
+      "predecessors": [
+        72
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 3,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 18,
+      "operation_id": 74,
+      "predecessors": [],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 18,
+      "operation_id": 75,
+      "predecessors": [
+        74
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 18,
+      "operation_id": 76,
+      "predecessors": [
+        75
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 18,
+      "operation_id": 77,
+      "predecessors": [
+        76
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 18,
+      "operation_id": 78,
+      "predecessors": [
+        77
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 18,
+      "operation_id": 79,
+      "predecessors": [
+        78
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 5,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 19,
+      "operation_id": 80,
+      "predecessors": [],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 19,
+      "operation_id": 81,
+      "predecessors": [
+        80
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 19,
+      "operation_id": 82,
+      "predecessors": [
+        81
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 20,
+      "operation_id": 83,
+      "predecessors": [],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 20,
+      "operation_id": 84,
+      "predecessors": [
+        83
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 20,
+      "operation_id": 85,
+      "predecessors": [
+        84
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 20,
+      "operation_id": 86,
+      "predecessors": [
+        85
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 20,
+      "operation_id": 87,
+      "predecessors": [
+        86
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 20,
+      "operation_id": 88,
+      "predecessors": [
+        87
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 5,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 21,
+      "operation_id": 89,
+      "predecessors": [],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 21,
+      "operation_id": 90,
+      "predecessors": [
+        89
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 21,
+      "operation_id": 91,
+      "predecessors": [
+        90
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 21,
+      "operation_id": 92,
+      "predecessors": [
+        91
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 21,
+      "operation_id": 93,
+      "predecessors": [
+        92
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 21,
+      "operation_id": 94,
+      "predecessors": [
+        93
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 5,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 22,
+      "operation_id": 95,
+      "predecessors": [],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 22,
+      "operation_id": 96,
+      "predecessors": [
+        95
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 22,
+      "operation_id": 97,
+      "predecessors": [
+        96
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 22,
+      "operation_id": 98,
+      "predecessors": [
+        97
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 23,
+      "operation_id": 99,
+      "predecessors": [],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 23,
+      "operation_id": 100,
+      "predecessors": [
+        99
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 23,
+      "operation_id": 101,
+      "predecessors": [
+        100
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 23,
+      "operation_id": 102,
+      "predecessors": [
+        101
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 23,
+      "operation_id": 103,
+      "predecessors": [
+        102
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 23,
+      "operation_id": 104,
+      "predecessors": [
+        103
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 5,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 24,
+      "operation_id": 105,
+      "predecessors": [],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 0,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 24,
+      "operation_id": 106,
+      "predecessors": [
+        105
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 24,
+      "operation_id": 107,
+      "predecessors": [
+        106
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 24,
+      "operation_id": 108,
+      "predecessors": [
+        107
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 24,
+      "operation_id": 109,
+      "predecessors": [
+        108
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 24,
+      "operation_id": 110,
+      "predecessors": [
+        109
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 5,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 25,
+      "operation_id": 111,
+      "predecessors": [],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 25,
+      "operation_id": 112,
+      "predecessors": [
+        111
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 25,
+      "operation_id": 113,
+      "predecessors": [
+        112
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 25,
+      "operation_id": 114,
+      "predecessors": [
+        113
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 25,
+      "operation_id": 115,
+      "predecessors": [
+        114
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 25,
+      "operation_id": 116,
+      "predecessors": [
+        115
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 5,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 26,
+      "operation_id": 117,
+      "predecessors": [],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 26,
+      "operation_id": 118,
+      "predecessors": [
+        117
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 26,
+      "operation_id": 119,
+      "predecessors": [
+        118
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 26,
+      "operation_id": 120,
+      "predecessors": [
+        119
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 27,
+      "operation_id": 121,
+      "predecessors": [],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 27,
+      "operation_id": 122,
+      "predecessors": [
+        121
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 27,
+      "operation_id": 123,
+      "predecessors": [
+        122
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 27,
+      "operation_id": 124,
+      "predecessors": [
+        123
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 3,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 27,
+      "operation_id": 125,
+      "predecessors": [
+        124
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 28,
+      "operation_id": 126,
+      "predecessors": [],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 28,
+      "operation_id": 127,
+      "predecessors": [
+        126
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 28,
+      "operation_id": 128,
+      "predecessors": [
+        127
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 28,
+      "operation_id": 129,
+      "predecessors": [
+        128
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 29,
+      "operation_id": 130,
+      "predecessors": [],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 29,
+      "operation_id": 131,
+      "predecessors": [
+        130
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 29,
+      "operation_id": 132,
+      "predecessors": [
+        131
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 29,
+      "operation_id": 133,
+      "predecessors": [
+        132
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 3,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 30,
+      "operation_id": 134,
+      "predecessors": [],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 30,
+      "operation_id": 135,
+      "predecessors": [
+        134
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 30,
+      "operation_id": 136,
+      "predecessors": [
+        135
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 30,
+      "operation_id": 137,
+      "predecessors": [
+        136
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 30,
+      "operation_id": 138,
+      "predecessors": [
+        137
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 31,
+      "operation_id": 139,
+      "predecessors": [],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 31,
+      "operation_id": 140,
+      "predecessors": [
+        139
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 31,
+      "operation_id": 141,
+      "predecessors": [
+        140
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 2,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 31,
+      "operation_id": 142,
+      "predecessors": [
+        141
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 32,
+      "operation_id": 143,
+      "predecessors": [],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 32,
+      "operation_id": 144,
+      "predecessors": [
+        143
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 32,
+      "operation_id": 145,
+      "predecessors": [
+        144
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 2,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 32,
+      "operation_id": 146,
+      "predecessors": [
+        145
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 33,
+      "operation_id": 147,
+      "predecessors": [],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 33,
+      "operation_id": 148,
+      "predecessors": [
+        147
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 33,
+      "operation_id": 149,
+      "predecessors": [
+        148
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 33,
+      "operation_id": 150,
+      "predecessors": [
+        149
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 33,
+      "operation_id": 151,
+      "predecessors": [
+        150
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 34,
+      "operation_id": 152,
+      "predecessors": [],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 34,
+      "operation_id": 153,
+      "predecessors": [
+        152
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 34,
+      "operation_id": 154,
+      "predecessors": [
+        153
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 2,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 34,
+      "operation_id": 155,
+      "predecessors": [
+        154
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 34,
+      "operation_id": 156,
+      "predecessors": [
+        155
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 34,
+      "operation_id": 157,
+      "predecessors": [
+        156
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 5,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 35,
+      "operation_id": 158,
+      "predecessors": [],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 35,
+      "operation_id": 159,
+      "predecessors": [
+        158
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 35,
+      "operation_id": 160,
+      "predecessors": [
+        159
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 35,
+      "operation_id": 161,
+      "predecessors": [
+        160
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 36,
+      "operation_id": 162,
+      "predecessors": [],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 36,
+      "operation_id": 163,
+      "predecessors": [
+        162
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 36,
+      "operation_id": 164,
+      "predecessors": [
+        163
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 2,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 36,
+      "operation_id": 165,
+      "predecessors": [
+        164
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 36,
+      "operation_id": 166,
+      "predecessors": [
+        165
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 36,
+      "operation_id": 167,
+      "predecessors": [
+        166
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 5,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 37,
+      "operation_id": 168,
+      "predecessors": [],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 37,
+      "operation_id": 169,
+      "predecessors": [
+        168
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 37,
+      "operation_id": 170,
+      "predecessors": [
+        169
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 38,
+      "operation_id": 171,
+      "predecessors": [],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 38,
+      "operation_id": 172,
+      "predecessors": [
+        171
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 38,
+      "operation_id": 173,
+      "predecessors": [
+        172
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 39,
+      "operation_id": 174,
+      "predecessors": [],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 39,
+      "operation_id": 175,
+      "predecessors": [
+        174
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 39,
+      "operation_id": 176,
+      "predecessors": [
+        175
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 39,
+      "operation_id": 177,
+      "predecessors": [
+        176
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 39,
+      "operation_id": 178,
+      "predecessors": [
+        177
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 40,
+      "operation_id": 179,
+      "predecessors": [],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 40,
+      "operation_id": 180,
+      "predecessors": [
+        179
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 40,
+      "operation_id": 181,
+      "predecessors": [
+        180
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 41,
+      "operation_id": 182,
+      "predecessors": [],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 41,
+      "operation_id": 183,
+      "predecessors": [
+        182
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 41,
+      "operation_id": 184,
+      "predecessors": [
+        183
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 41,
+      "operation_id": 185,
+      "predecessors": [
+        184
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 42,
+      "operation_id": 186,
+      "predecessors": [],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 0,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 42,
+      "operation_id": 187,
+      "predecessors": [
+        186
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 42,
+      "operation_id": 188,
+      "predecessors": [
+        187
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 42,
+      "operation_id": 189,
+      "predecessors": [
+        188
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 3,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 43,
+      "operation_id": 190,
+      "predecessors": [],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 43,
+      "operation_id": 191,
+      "predecessors": [
+        190
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 43,
+      "operation_id": 192,
+      "predecessors": [
+        191
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 43,
+      "operation_id": 193,
+      "predecessors": [
+        192
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 44,
+      "operation_id": 194,
+      "predecessors": [],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 44,
+      "operation_id": 195,
+      "predecessors": [
+        194
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 44,
+      "operation_id": 196,
+      "predecessors": [
+        195
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 44,
+      "operation_id": 197,
+      "predecessors": [
+        196
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 3,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 44,
+      "operation_id": 198,
+      "predecessors": [
+        197
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 45,
+      "operation_id": 199,
+      "predecessors": [],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 45,
+      "operation_id": 200,
+      "predecessors": [
+        199
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 45,
+      "operation_id": 201,
+      "predecessors": [
+        200
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 45,
+      "operation_id": 202,
+      "predecessors": [
+        201
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 45,
+      "operation_id": 203,
+      "predecessors": [
+        202
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 45,
+      "operation_id": 204,
+      "predecessors": [
+        203
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 5,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 46,
+      "operation_id": 205,
+      "predecessors": [],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 46,
+      "operation_id": 206,
+      "predecessors": [
+        205
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 46,
+      "operation_id": 207,
+      "predecessors": [
+        206
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 46,
+      "operation_id": 208,
+      "predecessors": [
+        207
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 3,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 46,
+      "operation_id": 209,
+      "predecessors": [
+        208
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 47,
+      "operation_id": 210,
+      "predecessors": [],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 47,
+      "operation_id": 211,
+      "predecessors": [
+        210
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 47,
+      "operation_id": 212,
+      "predecessors": [
+        211
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 2,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 47,
+      "operation_id": 213,
+      "predecessors": [
+        212
+      ],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 0
+      },
+      "sequence_index": 3,
+      "type": "H"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 47,
+      "operation_id": 214,
+      "predecessors": [
+        213
+      ],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 48,
+      "operation_id": 215,
+      "predecessors": [],
+      "processing_time": 5,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 48,
+      "operation_id": 216,
+      "predecessors": [
+        215
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 48,
+      "operation_id": 217,
+      "predecessors": [
+        216
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 48,
+      "operation_id": 218,
+      "predecessors": [
+        217
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 48,
+      "operation_id": 219,
+      "predecessors": [
+        218
+      ],
+      "processing_time": 6,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 49,
+      "operation_id": 220,
+      "predecessors": [],
+      "processing_time": 8,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 0,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 49,
+      "operation_id": 221,
+      "predecessors": [
+        220
+      ],
+      "processing_time": 10,
+      "resource_demand": {
+        "humans": 0,
+        "robots": 1
+      },
+      "sequence_index": 1,
+      "type": "R"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 49,
+      "operation_id": 222,
+      "predecessors": [
+        221
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 2,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 49,
+      "operation_id": 223,
+      "predecessors": [
+        222
+      ],
+      "processing_time": 9,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 3,
+      "type": "HR"
+    },
+    {
+      "eligible_workstations": [
+        0,
+        1,
+        2
+      ],
+      "job_id": 49,
+      "operation_id": 224,
+      "predecessors": [
+        223
+      ],
+      "processing_time": 7,
+      "resource_demand": {
+        "humans": 1,
+        "robots": 1
+      },
+      "sequence_index": 4,
+      "type": "HR"
+    }
+  ],
+  "precedences": [
+    {
+      "after": 1,
+      "before": 0,
+      "minimum_lag": 0
+    },
+    {
+      "after": 2,
+      "before": 1,
+      "minimum_lag": 0
+    },
+    {
+      "after": 3,
+      "before": 2,
+      "minimum_lag": 0
+    },
+    {
+      "after": 4,
+      "before": 3,
+      "minimum_lag": 0
+    },
+    {
+      "after": 6,
+      "before": 5,
+      "minimum_lag": 0
+    },
+    {
+      "after": 7,
+      "before": 6,
+      "minimum_lag": 0
+    },
+    {
+      "after": 9,
+      "before": 8,
+      "minimum_lag": 0
+    },
+    {
+      "after": 10,
+      "before": 9,
+      "minimum_lag": 0
+    },
+    {
+      "after": 11,
+      "before": 10,
+      "minimum_lag": 0
+    },
+    {
+      "after": 13,
+      "before": 12,
+      "minimum_lag": 0
+    },
+    {
+      "after": 14,
+      "before": 13,
+      "minimum_lag": 0
+    },
+    {
+      "after": 16,
+      "before": 15,
+      "minimum_lag": 0
+    },
+    {
+      "after": 17,
+      "before": 16,
+      "minimum_lag": 0
+    },
+    {
+      "after": 18,
+      "before": 17,
+      "minimum_lag": 0
+    },
+    {
+      "after": 19,
+      "before": 18,
+      "minimum_lag": 0
+    },
+    {
+      "after": 21,
+      "before": 20,
+      "minimum_lag": 0
+    },
+    {
+      "after": 22,
+      "before": 21,
+      "minimum_lag": 0
+    },
+    {
+      "after": 23,
+      "before": 22,
+      "minimum_lag": 0
+    },
+    {
+      "after": 24,
+      "before": 23,
+      "minimum_lag": 0
+    },
+    {
+      "after": 25,
+      "before": 24,
+      "minimum_lag": 0
+    },
+    {
+      "after": 27,
+      "before": 26,
+      "minimum_lag": 0
+    },
+    {
+      "after": 28,
+      "before": 27,
+      "minimum_lag": 0
+    },
+    {
+      "after": 29,
+      "before": 28,
+      "minimum_lag": 0
+    },
+    {
+      "after": 30,
+      "before": 29,
+      "minimum_lag": 0
+    },
+    {
+      "after": 32,
+      "before": 31,
+      "minimum_lag": 0
+    },
+    {
+      "after": 33,
+      "before": 32,
+      "minimum_lag": 0
+    },
+    {
+      "after": 35,
+      "before": 34,
+      "minimum_lag": 0
+    },
+    {
+      "after": 36,
+      "before": 35,
+      "minimum_lag": 0
+    },
+    {
+      "after": 38,
+      "before": 37,
+      "minimum_lag": 0
+    },
+    {
+      "after": 39,
+      "before": 38,
+      "minimum_lag": 0
+    },
+    {
+      "after": 40,
+      "before": 39,
+      "minimum_lag": 0
+    },
+    {
+      "after": 41,
+      "before": 40,
+      "minimum_lag": 0
+    },
+    {
+      "after": 42,
+      "before": 41,
+      "minimum_lag": 0
+    },
+    {
+      "after": 44,
+      "before": 43,
+      "minimum_lag": 0
+    },
+    {
+      "after": 45,
+      "before": 44,
+      "minimum_lag": 0
+    },
+    {
+      "after": 47,
+      "before": 46,
+      "minimum_lag": 0
+    },
+    {
+      "after": 48,
+      "before": 47,
+      "minimum_lag": 0
+    },
+    {
+      "after": 49,
+      "before": 48,
+      "minimum_lag": 0
+    },
+    {
+      "after": 50,
+      "before": 49,
+      "minimum_lag": 0
+    },
+    {
+      "after": 51,
+      "before": 50,
+      "minimum_lag": 0
+    },
+    {
+      "after": 53,
+      "before": 52,
+      "minimum_lag": 0
+    },
+    {
+      "after": 54,
+      "before": 53,
+      "minimum_lag": 0
+    },
+    {
+      "after": 55,
+      "before": 54,
+      "minimum_lag": 0
+    },
+    {
+      "after": 57,
+      "before": 56,
+      "minimum_lag": 0
+    },
+    {
+      "after": 58,
+      "before": 57,
+      "minimum_lag": 0
+    },
+    {
+      "after": 59,
+      "before": 58,
+      "minimum_lag": 0
+    },
+    {
+      "after": 60,
+      "before": 59,
+      "minimum_lag": 0
+    },
+    {
+      "after": 62,
+      "before": 61,
+      "minimum_lag": 0
+    },
+    {
+      "after": 63,
+      "before": 62,
+      "minimum_lag": 0
+    },
+    {
+      "after": 65,
+      "before": 64,
+      "minimum_lag": 0
+    },
+    {
+      "after": 66,
+      "before": 65,
+      "minimum_lag": 0
+    },
+    {
+      "after": 68,
+      "before": 67,
+      "minimum_lag": 0
+    },
+    {
+      "after": 69,
+      "before": 68,
+      "minimum_lag": 0
+    },
+    {
+      "after": 71,
+      "before": 70,
+      "minimum_lag": 0
+    },
+    {
+      "after": 72,
+      "before": 71,
+      "minimum_lag": 0
+    },
+    {
+      "after": 73,
+      "before": 72,
+      "minimum_lag": 0
+    },
+    {
+      "after": 75,
+      "before": 74,
+      "minimum_lag": 0
+    },
+    {
+      "after": 76,
+      "before": 75,
+      "minimum_lag": 0
+    },
+    {
+      "after": 77,
+      "before": 76,
+      "minimum_lag": 0
+    },
+    {
+      "after": 78,
+      "before": 77,
+      "minimum_lag": 0
+    },
+    {
+      "after": 79,
+      "before": 78,
+      "minimum_lag": 0
+    },
+    {
+      "after": 81,
+      "before": 80,
+      "minimum_lag": 0
+    },
+    {
+      "after": 82,
+      "before": 81,
+      "minimum_lag": 0
+    },
+    {
+      "after": 84,
+      "before": 83,
+      "minimum_lag": 0
+    },
+    {
+      "after": 85,
+      "before": 84,
+      "minimum_lag": 0
+    },
+    {
+      "after": 86,
+      "before": 85,
+      "minimum_lag": 0
+    },
+    {
+      "after": 87,
+      "before": 86,
+      "minimum_lag": 0
+    },
+    {
+      "after": 88,
+      "before": 87,
+      "minimum_lag": 0
+    },
+    {
+      "after": 90,
+      "before": 89,
+      "minimum_lag": 0
+    },
+    {
+      "after": 91,
+      "before": 90,
+      "minimum_lag": 0
+    },
+    {
+      "after": 92,
+      "before": 91,
+      "minimum_lag": 0
+    },
+    {
+      "after": 93,
+      "before": 92,
+      "minimum_lag": 0
+    },
+    {
+      "after": 94,
+      "before": 93,
+      "minimum_lag": 0
+    },
+    {
+      "after": 96,
+      "before": 95,
+      "minimum_lag": 0
+    },
+    {
+      "after": 97,
+      "before": 96,
+      "minimum_lag": 0
+    },
+    {
+      "after": 98,
+      "before": 97,
+      "minimum_lag": 0
+    },
+    {
+      "after": 100,
+      "before": 99,
+      "minimum_lag": 0
+    },
+    {
+      "after": 101,
+      "before": 100,
+      "minimum_lag": 0
+    },
+    {
+      "after": 102,
+      "before": 101,
+      "minimum_lag": 0
+    },
+    {
+      "after": 103,
+      "before": 102,
+      "minimum_lag": 0
+    },
+    {
+      "after": 104,
+      "before": 103,
+      "minimum_lag": 0
+    },
+    {
+      "after": 106,
+      "before": 105,
+      "minimum_lag": 0
+    },
+    {
+      "after": 107,
+      "before": 106,
+      "minimum_lag": 0
+    },
+    {
+      "after": 108,
+      "before": 107,
+      "minimum_lag": 0
+    },
+    {
+      "after": 109,
+      "before": 108,
+      "minimum_lag": 0
+    },
+    {
+      "after": 110,
+      "before": 109,
+      "minimum_lag": 0
+    },
+    {
+      "after": 112,
+      "before": 111,
+      "minimum_lag": 0
+    },
+    {
+      "after": 113,
+      "before": 112,
+      "minimum_lag": 0
+    },
+    {
+      "after": 114,
+      "before": 113,
+      "minimum_lag": 0
+    },
+    {
+      "after": 115,
+      "before": 114,
+      "minimum_lag": 0
+    },
+    {
+      "after": 116,
+      "before": 115,
+      "minimum_lag": 0
+    },
+    {
+      "after": 118,
+      "before": 117,
+      "minimum_lag": 0
+    },
+    {
+      "after": 119,
+      "before": 118,
+      "minimum_lag": 0
+    },
+    {
+      "after": 120,
+      "before": 119,
+      "minimum_lag": 0
+    },
+    {
+      "after": 122,
+      "before": 121,
+      "minimum_lag": 0
+    },
+    {
+      "after": 123,
+      "before": 122,
+      "minimum_lag": 0
+    },
+    {
+      "after": 124,
+      "before": 123,
+      "minimum_lag": 0
+    },
+    {
+      "after": 125,
+      "before": 124,
+      "minimum_lag": 0
+    },
+    {
+      "after": 127,
+      "before": 126,
+      "minimum_lag": 0
+    },
+    {
+      "after": 128,
+      "before": 127,
+      "minimum_lag": 0
+    },
+    {
+      "after": 129,
+      "before": 128,
+      "minimum_lag": 0
+    },
+    {
+      "after": 131,
+      "before": 130,
+      "minimum_lag": 0
+    },
+    {
+      "after": 132,
+      "before": 131,
+      "minimum_lag": 0
+    },
+    {
+      "after": 133,
+      "before": 132,
+      "minimum_lag": 0
+    },
+    {
+      "after": 135,
+      "before": 134,
+      "minimum_lag": 0
+    },
+    {
+      "after": 136,
+      "before": 135,
+      "minimum_lag": 0
+    },
+    {
+      "after": 137,
+      "before": 136,
+      "minimum_lag": 0
+    },
+    {
+      "after": 138,
+      "before": 137,
+      "minimum_lag": 0
+    },
+    {
+      "after": 140,
+      "before": 139,
+      "minimum_lag": 0
+    },
+    {
+      "after": 141,
+      "before": 140,
+      "minimum_lag": 0
+    },
+    {
+      "after": 142,
+      "before": 141,
+      "minimum_lag": 0
+    },
+    {
+      "after": 144,
+      "before": 143,
+      "minimum_lag": 0
+    },
+    {
+      "after": 145,
+      "before": 144,
+      "minimum_lag": 0
+    },
+    {
+      "after": 146,
+      "before": 145,
+      "minimum_lag": 0
+    },
+    {
+      "after": 148,
+      "before": 147,
+      "minimum_lag": 0
+    },
+    {
+      "after": 149,
+      "before": 148,
+      "minimum_lag": 0
+    },
+    {
+      "after": 150,
+      "before": 149,
+      "minimum_lag": 0
+    },
+    {
+      "after": 151,
+      "before": 150,
+      "minimum_lag": 0
+    },
+    {
+      "after": 153,
+      "before": 152,
+      "minimum_lag": 0
+    },
+    {
+      "after": 154,
+      "before": 153,
+      "minimum_lag": 0
+    },
+    {
+      "after": 155,
+      "before": 154,
+      "minimum_lag": 0
+    },
+    {
+      "after": 156,
+      "before": 155,
+      "minimum_lag": 0
+    },
+    {
+      "after": 157,
+      "before": 156,
+      "minimum_lag": 0
+    },
+    {
+      "after": 159,
+      "before": 158,
+      "minimum_lag": 0
+    },
+    {
+      "after": 160,
+      "before": 159,
+      "minimum_lag": 0
+    },
+    {
+      "after": 161,
+      "before": 160,
+      "minimum_lag": 0
+    },
+    {
+      "after": 163,
+      "before": 162,
+      "minimum_lag": 0
+    },
+    {
+      "after": 164,
+      "before": 163,
+      "minimum_lag": 0
+    },
+    {
+      "after": 165,
+      "before": 164,
+      "minimum_lag": 0
+    },
+    {
+      "after": 166,
+      "before": 165,
+      "minimum_lag": 0
+    },
+    {
+      "after": 167,
+      "before": 166,
+      "minimum_lag": 0
+    },
+    {
+      "after": 169,
+      "before": 168,
+      "minimum_lag": 0
+    },
+    {
+      "after": 170,
+      "before": 169,
+      "minimum_lag": 0
+    },
+    {
+      "after": 172,
+      "before": 171,
+      "minimum_lag": 0
+    },
+    {
+      "after": 173,
+      "before": 172,
+      "minimum_lag": 0
+    },
+    {
+      "after": 175,
+      "before": 174,
+      "minimum_lag": 0
+    },
+    {
+      "after": 176,
+      "before": 175,
+      "minimum_lag": 0
+    },
+    {
+      "after": 177,
+      "before": 176,
+      "minimum_lag": 0
+    },
+    {
+      "after": 178,
+      "before": 177,
+      "minimum_lag": 0
+    },
+    {
+      "after": 180,
+      "before": 179,
+      "minimum_lag": 0
+    },
+    {
+      "after": 181,
+      "before": 180,
+      "minimum_lag": 0
+    },
+    {
+      "after": 183,
+      "before": 182,
+      "minimum_lag": 0
+    },
+    {
+      "after": 184,
+      "before": 183,
+      "minimum_lag": 0
+    },
+    {
+      "after": 185,
+      "before": 184,
+      "minimum_lag": 0
+    },
+    {
+      "after": 187,
+      "before": 186,
+      "minimum_lag": 0
+    },
+    {
+      "after": 188,
+      "before": 187,
+      "minimum_lag": 0
+    },
+    {
+      "after": 189,
+      "before": 188,
+      "minimum_lag": 0
+    },
+    {
+      "after": 191,
+      "before": 190,
+      "minimum_lag": 0
+    },
+    {
+      "after": 192,
+      "before": 191,
+      "minimum_lag": 0
+    },
+    {
+      "after": 193,
+      "before": 192,
+      "minimum_lag": 0
+    },
+    {
+      "after": 195,
+      "before": 194,
+      "minimum_lag": 0
+    },
+    {
+      "after": 196,
+      "before": 195,
+      "minimum_lag": 0
+    },
+    {
+      "after": 197,
+      "before": 196,
+      "minimum_lag": 0
+    },
+    {
+      "after": 198,
+      "before": 197,
+      "minimum_lag": 0
+    },
+    {
+      "after": 200,
+      "before": 199,
+      "minimum_lag": 0
+    },
+    {
+      "after": 201,
+      "before": 200,
+      "minimum_lag": 0
+    },
+    {
+      "after": 202,
+      "before": 201,
+      "minimum_lag": 0
+    },
+    {
+      "after": 203,
+      "before": 202,
+      "minimum_lag": 0
+    },
+    {
+      "after": 204,
+      "before": 203,
+      "minimum_lag": 0
+    },
+    {
+      "after": 206,
+      "before": 205,
+      "minimum_lag": 0
+    },
+    {
+      "after": 207,
+      "before": 206,
+      "minimum_lag": 0
+    },
+    {
+      "after": 208,
+      "before": 207,
+      "minimum_lag": 0
+    },
+    {
+      "after": 209,
+      "before": 208,
+      "minimum_lag": 0
+    },
+    {
+      "after": 211,
+      "before": 210,
+      "minimum_lag": 0
+    },
+    {
+      "after": 212,
+      "before": 211,
+      "minimum_lag": 0
+    },
+    {
+      "after": 213,
+      "before": 212,
+      "minimum_lag": 0
+    },
+    {
+      "after": 214,
+      "before": 213,
+      "minimum_lag": 0
+    },
+    {
+      "after": 216,
+      "before": 215,
+      "minimum_lag": 0
+    },
+    {
+      "after": 217,
+      "before": 216,
+      "minimum_lag": 0
+    },
+    {
+      "after": 218,
+      "before": 217,
+      "minimum_lag": 0
+    },
+    {
+      "after": 219,
+      "before": 218,
+      "minimum_lag": 0
+    },
+    {
+      "after": 221,
+      "before": 220,
+      "minimum_lag": 0
+    },
+    {
+      "after": 222,
+      "before": 221,
+      "minimum_lag": 0
+    },
+    {
+      "after": 223,
+      "before": 222,
+      "minimum_lag": 0
+    },
+    {
+      "after": 224,
+      "before": 223,
+      "minimum_lag": 0
+    }
+  ],
+  "provenance": {
+    "original_instance_sha256": "3a72743ec9462ef16b441dcb442be31b3299a55783f7e6054bc1a17db4e57d78",
+    "source_case_id": "n50_capacity_x2_seed930123",
+    "source_run": "hrc_dataset_s1_s9_seed_extension_20261021"
+  },
+  "schema_version": "1.0",
+  "workstations": [
+    {
+      "human_capacity": 6,
+      "robot_capacity": 4,
+      "workstation_id": 0
+    },
+    {
+      "human_capacity": 4,
+      "robot_capacity": 6,
+      "workstation_id": 1
+    },
+    {
+      "human_capacity": 2,
+      "robot_capacity": 8,
+      "workstation_id": 2
+    }
+  ]
+}
